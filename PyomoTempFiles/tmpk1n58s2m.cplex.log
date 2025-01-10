@@ -1,0 +1,55 @@
+Solver command line: ['C:\\Program Files\\IBM\\ILOG\\CPLEX_Studio2211\\cplex\\bin\\x64_win64\\cplex.exe']
+
+
+Welcome to IBM(R) ILOG(R) CPLEX(R) Interactive Optimizer 22.1.1.0
+  with Simplex, Mixed Integer & Barrier Optimizers
+5725-A06 5725-A29 5724-Y48 5724-Y49 5724-Y54 5724-Y55 5655-Y21
+Copyright IBM Corp. 1988, 2022.  All Rights Reserved.
+
+Type 'help' for a list of available commands.
+Type 'help' followed by a command name for more
+information on commands.
+
+CPLEX> Logfile 'cplex.log' closed.
+Logfile 'C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpk1n58s2m.cplex.log' open.
+CPLEX> New value for mixed integer optimality gap tolerance: 0.001
+CPLEX> Problem 'C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpx5b8g_0k.pyomo.lp' read.
+Read time = 0.01 sec. (0.83 ticks)
+CPLEX> Problem name         : C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpx5b8g_0k.pyomo.lp
+Objective sense      : Minimize
+Variables            :    1893  [Fix: 6,  Box: 375,  Free: 1500,
+                                 General Integer: 12]
+Objective nonzeros   :       3
+Linear constraints   :    6375  [Less: 4500,  Equal: 1875]
+  Nonzeros           :   39633
+  RHS nonzeros       :    4678
+
+Variables            : Min LB: 0.000000         Max UB: 4.000000       
+Objective nonzeros   : Min   : 1.000000         Max   : 1.000000       
+Linear constraints   :
+  Nonzeros           : Min   : 1.303605e-06     Max   : 50.00000       
+  RHS nonzeros       : Min   : 0.03000000       Max   : 20.49000       
+CPLEX> Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_MIP_Tolerances_MIPGap                   0.001
+Tried aggregator 1 time.
+MIP Presolve eliminated 6375 rows and 1893 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (5.27 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (6.21 ticks)
+Parallel b&c, 24 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (6.21 ticks)
+
+Solution pool: 1 solution saved.
+
+MIP - Integer optimal solution:  Objective =  0.0000000000e+00
+Solution time =    0.00 sec.  Iterations = 0  Nodes = 0 (1)
+Deterministic time = 6.22 ticks  (6216.39 ticks/sec)
+
+CPLEX> Incumbent solution written to file 'C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpaup2otq0.cplex.sol'.
+CPLEX> 

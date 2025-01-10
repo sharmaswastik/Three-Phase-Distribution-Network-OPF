@@ -1,0 +1,1936 @@
+THE OPF WAS RUN AT : 2025:01:10 16:15:12 IST +0530
+
+SOLUTION_STATUS
+optimal 	
+END_SOLUTION_STATUS
+
+DGResultsforActivePower
+
+DER1    
+Interval: 1
+	ActivePowerGenerated: 0.0 kW at Phase A
+	ActivePowerGenerated: 0.0 kW at Phase B
+	ActivePowerGenerated: 0.0 kW at Phase C
+
+END_DGResultsforActivePower
+
+DGResultsforReactivePower
+
+DER1    
+Interval: 1
+	ReactivePowerGenerated: 0.0 kVaR at Phase A
+	ReactivePowerGenerated: 0.0 kVaR at Phase B
+	ReactivePowerGenerated: 0.0 kVaR at Phase C
+
+END_DGResultsforReactivePower
+
+VOLTAGE MAGNITUDES
+
+Phase: A Bus: Bus0 Interval: 1 : 1.04 p.u.
+Phase: B Bus: Bus0 Interval: 1 : 1.04 p.u.
+Phase: C Bus: Bus0 Interval: 1 : 1.04 p.u.
+Phase: A Bus: Bus1 Interval: 1 : 1.02805 p.u.
+Phase: B Bus: Bus1 Interval: 1 : 1.03581 p.u.
+Phase: C Bus: Bus1 Interval: 1 : 1.03051 p.u.
+Phase: A Bus: Bus2 Interval: 1 : NaN 
+Phase: B Bus: Bus2 Interval: 1 : 1.03559 p.u.
+Phase: C Bus: Bus2 Interval: 1 : NaN 
+Phase: A Bus: Bus3 Interval: 1 : NaN 
+Phase: B Bus: Bus3 Interval: 1 : NaN 
+Phase: C Bus: Bus3 Interval: 1 : 1.02892 p.u.
+Phase: A Bus: Bus4 Interval: 1 : NaN 
+Phase: B Bus: Bus4 Interval: 1 : NaN 
+Phase: C Bus: Bus4 Interval: 1 : 1.0284 p.u.
+Phase: A Bus: Bus5 Interval: 1 : NaN 
+Phase: B Bus: Bus5 Interval: 1 : NaN 
+Phase: C Bus: Bus5 Interval: 1 : 1.02767 p.u.
+Phase: A Bus: Bus6 Interval: 1 : NaN 
+Phase: B Bus: Bus6 Interval: 1 : NaN 
+Phase: C Bus: Bus6 Interval: 1 : 1.02703 p.u.
+Phase: A Bus: Bus7 Interval: 1 : 1.01884 p.u.
+Phase: B Bus: Bus7 Interval: 1 : 1.03294 p.u.
+Phase: C Bus: Bus7 Interval: 1 : 1.02416 p.u.
+Phase: A Bus: Bus8 Interval: 1 : 1.01272 p.u.
+Phase: B Bus: Bus8 Interval: 1 : 1.03101 p.u.
+Phase: C Bus: Bus8 Interval: 1 : 1.01988 p.u.
+Phase: A Bus: Bus9 Interval: 1 : 1.01165 p.u.
+Phase: B Bus: Bus9 Interval: 1 : NaN 
+Phase: C Bus: Bus9 Interval: 1 : NaN 
+Phase: A Bus: Bus10 Interval: 1 : 1.00966 p.u.
+Phase: B Bus: Bus10 Interval: 1 : NaN 
+Phase: C Bus: Bus10 Interval: 1 : NaN 
+Phase: A Bus: Bus11 Interval: 1 : 1.00933 p.u.
+Phase: B Bus: Bus11 Interval: 1 : NaN 
+Phase: C Bus: Bus11 Interval: 1 : NaN 
+Phase: A Bus: Bus12 Interval: 1 : NaN 
+Phase: B Bus: Bus12 Interval: 1 : 1.03073 p.u.
+Phase: C Bus: Bus12 Interval: 1 : NaN 
+Phase: A Bus: Bus13 Interval: 1 : 1.0043 p.u.
+Phase: B Bus: Bus13 Interval: 1 : 1.02796 p.u.
+Phase: C Bus: Bus13 Interval: 1 : 1.01332 p.u.
+Phase: A Bus: Bus14 Interval: 1 : 1.00999 p.u.
+Phase: B Bus: Bus14 Interval: 1 : NaN 
+Phase: C Bus: Bus14 Interval: 1 : NaN 
+Phase: A Bus: Bus15 Interval: 1 : NaN 
+Phase: B Bus: Bus15 Interval: 1 : NaN 
+Phase: C Bus: Bus15 Interval: 1 : 1.01196 p.u.
+Phase: A Bus: Bus16 Interval: 1 : NaN 
+Phase: B Bus: Bus16 Interval: 1 : NaN 
+Phase: C Bus: Bus16 Interval: 1 : 1.01098 p.u.
+Phase: A Bus: Bus17 Interval: 1 : NaN 
+Phase: B Bus: Bus17 Interval: 1 : NaN 
+Phase: C Bus: Bus17 Interval: 1 : 1.0115 p.u.
+Phase: A Bus: Bus18 Interval: 1 : 0.99521 p.u.
+Phase: B Bus: Bus18 Interval: 1 : 1.02529 p.u.
+Phase: C Bus: Bus18 Interval: 1 : 1.00665 p.u.
+Phase: A Bus: Bus19 Interval: 1 : 0.99388 p.u.
+Phase: B Bus: Bus19 Interval: 1 : NaN 
+Phase: C Bus: Bus19 Interval: 1 : NaN 
+Phase: A Bus: Bus20 Interval: 1 : 0.99302 p.u.
+Phase: B Bus: Bus20 Interval: 1 : NaN 
+Phase: C Bus: Bus20 Interval: 1 : NaN 
+Phase: A Bus: Bus21 Interval: 1 : 0.99466 p.u.
+Phase: B Bus: Bus21 Interval: 1 : 1.02536 p.u.
+Phase: C Bus: Bus21 Interval: 1 : 1.00546 p.u.
+Phase: A Bus: Bus22 Interval: 1 : NaN 
+Phase: B Bus: Bus22 Interval: 1 : 1.02401 p.u.
+Phase: C Bus: Bus22 Interval: 1 : NaN 
+Phase: A Bus: Bus23 Interval: 1 : 0.99424 p.u.
+Phase: B Bus: Bus23 Interval: 1 : 1.02573 p.u.
+Phase: C Bus: Bus23 Interval: 1 : 1.00432 p.u.
+Phase: A Bus: Bus24 Interval: 1 : NaN 
+Phase: B Bus: Bus24 Interval: 1 : NaN 
+Phase: C Bus: Bus24 Interval: 1 : 1.00288 p.u.
+Phase: A Bus: Bus25 Interval: 1 : 0.99358 p.u.
+Phase: B Bus: Bus25 Interval: 1 : 1.02618 p.u.
+Phase: C Bus: Bus25 Interval: 1 : 1.00343 p.u.
+Phase: A Bus: Bus26 Interval: 1 : 0.99332 p.u.
+Phase: B Bus: Bus26 Interval: 1 : NaN 
+Phase: C Bus: Bus26 Interval: 1 : 1.00293 p.u.
+Phase: A Bus: Bus27 Interval: 1 : 0.99296 p.u.
+Phase: B Bus: Bus27 Interval: 1 : NaN 
+Phase: C Bus: Bus27 Interval: 1 : 1.0029 p.u.
+Phase: A Bus: Bus28 Interval: 1 : 0.9932 p.u.
+Phase: B Bus: Bus28 Interval: 1 : 1.0264 p.u.
+Phase: C Bus: Bus28 Interval: 1 : 1.00308 p.u.
+Phase: A Bus: Bus29 Interval: 1 : 0.99304 p.u.
+Phase: B Bus: Bus29 Interval: 1 : 1.02655 p.u.
+Phase: C Bus: Bus29 Interval: 1 : 1.00263 p.u.
+Phase: A Bus: Bus30 Interval: 1 : 0.9933 p.u.
+Phase: B Bus: Bus30 Interval: 1 : 1.02651 p.u.
+Phase: C Bus: Bus30 Interval: 1 : 1.00217 p.u.
+Phase: A Bus: Bus31 Interval: 1 : NaN 
+Phase: B Bus: Bus31 Interval: 1 : NaN 
+Phase: C Bus: Bus31 Interval: 1 : 1.00234 p.u.
+Phase: A Bus: Bus32 Interval: 1 : NaN 
+Phase: B Bus: Bus32 Interval: 1 : NaN 
+Phase: C Bus: Bus32 Interval: 1 : 1.00195 p.u.
+Phase: A Bus: Bus33 Interval: 1 : 0.99163 p.u.
+Phase: B Bus: Bus33 Interval: 1 : NaN 
+Phase: C Bus: Bus33 Interval: 1 : NaN 
+Phase: A Bus: Bus34 Interval: 1 : NaN 
+Phase: B Bus: Bus34 Interval: 1 : NaN 
+Phase: C Bus: Bus34 Interval: 1 : 1.01235 p.u.
+Phase: A Bus: Bus35 Interval: 1 : 0.99243 p.u.
+Phase: B Bus: Bus35 Interval: 1 : 1.02348 p.u.
+Phase: C Bus: Bus35 Interval: 1 : 1.00572 p.u.
+Phase: A Bus: Bus36 Interval: 1 : 0.99149 p.u.
+Phase: B Bus: Bus36 Interval: 1 : 1.02302 p.u.
+Phase: C Bus: Bus36 Interval: 1 : NaN 
+Phase: A Bus: Bus37 Interval: 1 : 0.99069 p.u.
+Phase: B Bus: Bus37 Interval: 1 : NaN 
+Phase: C Bus: Bus37 Interval: 1 : NaN 
+Phase: A Bus: Bus38 Interval: 1 : NaN 
+Phase: B Bus: Bus38 Interval: 1 : 1.02237 p.u.
+Phase: C Bus: Bus38 Interval: 1 : NaN 
+Phase: A Bus: Bus39 Interval: 1 : NaN 
+Phase: B Bus: Bus39 Interval: 1 : 1.02195 p.u.
+Phase: C Bus: Bus39 Interval: 1 : NaN 
+Phase: A Bus: Bus40 Interval: 1 : 0.99122 p.u.
+Phase: B Bus: Bus40 Interval: 1 : 1.02243 p.u.
+Phase: C Bus: Bus40 Interval: 1 : 1.00486 p.u.
+Phase: A Bus: Bus41 Interval: 1 : NaN 
+Phase: B Bus: Bus41 Interval: 1 : NaN 
+Phase: C Bus: Bus41 Interval: 1 : 1.00444 p.u.
+Phase: A Bus: Bus42 Interval: 1 : 0.98994 p.u.
+Phase: B Bus: Bus42 Interval: 1 : 1.0214 p.u.
+Phase: C Bus: Bus42 Interval: 1 : 1.00416 p.u.
+Phase: A Bus: Bus43 Interval: 1 : NaN 
+Phase: B Bus: Bus43 Interval: 1 : 1.02011 p.u.
+Phase: C Bus: Bus43 Interval: 1 : NaN 
+Phase: A Bus: Bus44 Interval: 1 : 0.9891 p.u.
+Phase: B Bus: Bus44 Interval: 1 : 1.02075 p.u.
+Phase: C Bus: Bus44 Interval: 1 : 1.00349 p.u.
+Phase: A Bus: Bus45 Interval: 1 : 0.98856 p.u.
+Phase: B Bus: Bus45 Interval: 1 : NaN 
+Phase: C Bus: Bus45 Interval: 1 : NaN 
+Phase: A Bus: Bus46 Interval: 1 : 0.98816 p.u.
+Phase: B Bus: Bus46 Interval: 1 : NaN 
+Phase: C Bus: Bus46 Interval: 1 : NaN 
+Phase: A Bus: Bus47 Interval: 1 : 0.98837 p.u.
+Phase: B Bus: Bus47 Interval: 1 : 1.01976 p.u.
+Phase: C Bus: Bus47 Interval: 1 : 1.00268 p.u.
+Phase: A Bus: Bus48 Interval: 1 : 0.9882 p.u.
+Phase: B Bus: Bus48 Interval: 1 : 1.01962 p.u.
+Phase: C Bus: Bus48 Interval: 1 : 1.00252 p.u.
+Phase: A Bus: Bus49 Interval: 1 : 0.98817 p.u.
+Phase: B Bus: Bus49 Interval: 1 : 1.01913 p.u.
+Phase: C Bus: Bus49 Interval: 1 : 1.0024 p.u.
+Phase: A Bus: Bus50 Interval: 1 : 0.98823 p.u.
+Phase: B Bus: Bus50 Interval: 1 : 1.01909 p.u.
+Phase: C Bus: Bus50 Interval: 1 : 1.0021 p.u.
+Phase: A Bus: Bus51 Interval: 1 : 0.98814 p.u.
+Phase: B Bus: Bus51 Interval: 1 : 1.01909 p.u.
+Phase: C Bus: Bus51 Interval: 1 : 1.00213 p.u.
+Phase: A Bus: Bus52 Interval: 1 : 0.99745 p.u.
+Phase: B Bus: Bus52 Interval: 1 : 1.02483 p.u.
+Phase: C Bus: Bus52 Interval: 1 : 1.00858 p.u.
+Phase: A Bus: Bus53 Interval: 1 : 0.99416 p.u.
+Phase: B Bus: Bus53 Interval: 1 : 1.02324 p.u.
+Phase: C Bus: Bus53 Interval: 1 : 1.00616 p.u.
+Phase: A Bus: Bus54 Interval: 1 : 0.99218 p.u.
+Phase: B Bus: Bus54 Interval: 1 : 1.02225 p.u.
+Phase: C Bus: Bus54 Interval: 1 : 1.00462 p.u.
+Phase: A Bus: Bus55 Interval: 1 : 0.99197 p.u.
+Phase: B Bus: Bus55 Interval: 1 : 1.02217 p.u.
+Phase: C Bus: Bus55 Interval: 1 : 1.00469 p.u.
+Phase: A Bus: Bus56 Interval: 1 : 0.99194 p.u.
+Phase: B Bus: Bus56 Interval: 1 : 1.022 p.u.
+Phase: C Bus: Bus56 Interval: 1 : 1.00477 p.u.
+Phase: A Bus: Bus57 Interval: 1 : 0.98752 p.u.
+Phase: B Bus: Bus57 Interval: 1 : 1.01842 p.u.
+Phase: C Bus: Bus57 Interval: 1 : 1.00063 p.u.
+Phase: A Bus: Bus58 Interval: 1 : NaN 
+Phase: B Bus: Bus58 Interval: 1 : 1.01777 p.u.
+Phase: C Bus: Bus58 Interval: 1 : NaN 
+Phase: A Bus: Bus59 Interval: 1 : NaN 
+Phase: B Bus: Bus59 Interval: 1 : 1.01745 p.u.
+Phase: C Bus: Bus59 Interval: 1 : NaN 
+Phase: A Bus: Bus60 Interval: 1 : 0.97755 p.u.
+Phase: B Bus: Bus60 Interval: 1 : 1.01113 p.u.
+Phase: C Bus: Bus60 Interval: 1 : 0.99148 p.u.
+Phase: A Bus: Bus61 Interval: 1 : 0.97755 p.u.
+Phase: B Bus: Bus61 Interval: 1 : 1.01113 p.u.
+Phase: C Bus: Bus61 Interval: 1 : 0.99148 p.u.
+Phase: A Bus: Bus62 Interval: 1 : 0.9772 p.u.
+Phase: B Bus: Bus62 Interval: 1 : 1.01042 p.u.
+Phase: C Bus: Bus62 Interval: 1 : 0.98975 p.u.
+Phase: A Bus: Bus63 Interval: 1 : 0.97689 p.u.
+Phase: B Bus: Bus63 Interval: 1 : 1.00984 p.u.
+Phase: C Bus: Bus63 Interval: 1 : 0.98898 p.u.
+Phase: A Bus: Bus64 Interval: 1 : 0.97717 p.u.
+Phase: B Bus: Bus64 Interval: 1 : 1.00854 p.u.
+Phase: C Bus: Bus64 Interval: 1 : 0.98729 p.u.
+Phase: A Bus: Bus65 Interval: 1 : 0.97719 p.u.
+Phase: B Bus: Bus65 Interval: 1 : 1.0089 p.u.
+Phase: C Bus: Bus65 Interval: 1 : 0.98484 p.u.
+Phase: A Bus: Bus66 Interval: 1 : 0.97742 p.u.
+Phase: B Bus: Bus66 Interval: 1 : 1.00913 p.u.
+Phase: C Bus: Bus66 Interval: 1 : 0.98332 p.u.
+Phase: A Bus: Bus67 Interval: 1 : 0.97355 p.u.
+Phase: B Bus: Bus67 Interval: 1 : 1.00874 p.u.
+Phase: C Bus: Bus67 Interval: 1 : 0.98793 p.u.
+Phase: A Bus: Bus68 Interval: 1 : 0.97193 p.u.
+Phase: B Bus: Bus68 Interval: 1 : NaN 
+Phase: C Bus: Bus68 Interval: 1 : NaN 
+Phase: A Bus: Bus69 Interval: 1 : 0.97007 p.u.
+Phase: B Bus: Bus69 Interval: 1 : NaN 
+Phase: C Bus: Bus69 Interval: 1 : NaN 
+Phase: A Bus: Bus70 Interval: 1 : 0.96874 p.u.
+Phase: B Bus: Bus70 Interval: 1 : NaN 
+Phase: C Bus: Bus70 Interval: 1 : NaN 
+Phase: A Bus: Bus71 Interval: 1 : 0.968 p.u.
+Phase: B Bus: Bus71 Interval: 1 : NaN 
+Phase: C Bus: Bus71 Interval: 1 : NaN 
+Phase: A Bus: Bus72 Interval: 1 : 0.97236 p.u.
+Phase: B Bus: Bus72 Interval: 1 : 1.00678 p.u.
+Phase: C Bus: Bus72 Interval: 1 : 0.98656 p.u.
+Phase: A Bus: Bus73 Interval: 1 : NaN 
+Phase: B Bus: Bus73 Interval: 1 : NaN 
+Phase: C Bus: Bus73 Interval: 1 : 0.98436 p.u.
+Phase: A Bus: Bus74 Interval: 1 : NaN 
+Phase: B Bus: Bus74 Interval: 1 : NaN 
+Phase: C Bus: Bus74 Interval: 1 : 0.98249 p.u.
+Phase: A Bus: Bus75 Interval: 1 : NaN 
+Phase: B Bus: Bus75 Interval: 1 : NaN 
+Phase: C Bus: Bus75 Interval: 1 : 0.98142 p.u.
+Phase: A Bus: Bus76 Interval: 1 : 0.97109 p.u.
+Phase: B Bus: Bus76 Interval: 1 : 1.00549 p.u.
+Phase: C Bus: Bus76 Interval: 1 : 0.98636 p.u.
+Phase: A Bus: Bus77 Interval: 1 : 0.97053 p.u.
+Phase: B Bus: Bus77 Interval: 1 : 1.00479 p.u.
+Phase: C Bus: Bus77 Interval: 1 : 0.98565 p.u.
+Phase: A Bus: Bus78 Interval: 1 : 0.9704 p.u.
+Phase: B Bus: Bus78 Interval: 1 : 1.00474 p.u.
+Phase: C Bus: Bus78 Interval: 1 : 0.9854 p.u.
+Phase: A Bus: Bus79 Interval: 1 : 0.9701 p.u.
+Phase: B Bus: Bus79 Interval: 1 : 1.00487 p.u.
+Phase: C Bus: Bus79 Interval: 1 : 0.98535 p.u.
+Phase: A Bus: Bus80 Interval: 1 : 0.97043 p.u.
+Phase: B Bus: Bus80 Interval: 1 : 1.00426 p.u.
+Phase: C Bus: Bus80 Interval: 1 : 0.98435 p.u.
+Phase: A Bus: Bus81 Interval: 1 : 0.97053 p.u.
+Phase: B Bus: Bus81 Interval: 1 : 1.00439 p.u.
+Phase: C Bus: Bus81 Interval: 1 : 0.98299 p.u.
+Phase: A Bus: Bus82 Interval: 1 : 0.97029 p.u.
+Phase: B Bus: Bus82 Interval: 1 : 1.00452 p.u.
+Phase: C Bus: Bus82 Interval: 1 : 0.98277 p.u.
+Phase: A Bus: Bus83 Interval: 1 : 0.97038 p.u.
+Phase: B Bus: Bus83 Interval: 1 : 1.0045 p.u.
+Phase: C Bus: Bus83 Interval: 1 : 0.9826 p.u.
+Phase: A Bus: Bus84 Interval: 1 : NaN 
+Phase: B Bus: Bus84 Interval: 1 : NaN 
+Phase: C Bus: Bus84 Interval: 1 : 0.98027 p.u.
+Phase: A Bus: Bus85 Interval: 1 : NaN 
+Phase: B Bus: Bus85 Interval: 1 : NaN 
+Phase: C Bus: Bus85 Interval: 1 : 0.979 p.u.
+Phase: A Bus: Bus86 Interval: 1 : 0.96936 p.u.
+Phase: B Bus: Bus86 Interval: 1 : 1.00295 p.u.
+Phase: C Bus: Bus86 Interval: 1 : 0.98709 p.u.
+Phase: A Bus: Bus87 Interval: 1 : 0.96831 p.u.
+Phase: B Bus: Bus87 Interval: 1 : 1.00164 p.u.
+Phase: C Bus: Bus87 Interval: 1 : 0.98717 p.u.
+Phase: A Bus: Bus88 Interval: 1 : 0.96784 p.u.
+Phase: B Bus: Bus88 Interval: 1 : NaN 
+Phase: C Bus: Bus88 Interval: 1 : NaN 
+Phase: A Bus: Bus89 Interval: 1 : 0.96809 p.u.
+Phase: B Bus: Bus89 Interval: 1 : 1.00104 p.u.
+Phase: C Bus: Bus89 Interval: 1 : 0.9871 p.u.
+Phase: A Bus: Bus90 Interval: 1 : NaN 
+Phase: B Bus: Bus90 Interval: 1 : 1.00045 p.u.
+Phase: C Bus: Bus90 Interval: 1 : NaN 
+Phase: A Bus: Bus91 Interval: 1 : 0.96793 p.u.
+Phase: B Bus: Bus91 Interval: 1 : 1.00084 p.u.
+Phase: C Bus: Bus91 Interval: 1 : 0.9869 p.u.
+Phase: A Bus: Bus92 Interval: 1 : NaN 
+Phase: B Bus: Bus92 Interval: 1 : NaN 
+Phase: C Bus: Bus92 Interval: 1 : 0.9861 p.u.
+Phase: A Bus: Bus93 Interval: 1 : 0.96759 p.u.
+Phase: B Bus: Bus93 Interval: 1 : 1.00068 p.u.
+Phase: C Bus: Bus93 Interval: 1 : 0.98699 p.u.
+Phase: A Bus: Bus94 Interval: 1 : 0.96685 p.u.
+Phase: B Bus: Bus94 Interval: 1 : NaN 
+Phase: C Bus: Bus94 Interval: 1 : NaN 
+Phase: A Bus: Bus95 Interval: 1 : 0.96756 p.u.
+Phase: B Bus: Bus95 Interval: 1 : 1.00029 p.u.
+Phase: C Bus: Bus95 Interval: 1 : 0.98719 p.u.
+Phase: A Bus: Bus96 Interval: 1 : NaN 
+Phase: B Bus: Bus96 Interval: 1 : 1.00002 p.u.
+Phase: C Bus: Bus96 Interval: 1 : NaN 
+Phase: A Bus: Bus97 Interval: 1 : 0.97252 p.u.
+Phase: B Bus: Bus97 Interval: 1 : 1.00822 p.u.
+Phase: C Bus: Bus97 Interval: 1 : 0.98718 p.u.
+Phase: A Bus: Bus98 Interval: 1 : 0.9723 p.u.
+Phase: B Bus: Bus98 Interval: 1 : 1.00796 p.u.
+Phase: C Bus: Bus98 Interval: 1 : 0.98698 p.u.
+Phase: A Bus: Bus99 Interval: 1 : 0.97258 p.u.
+Phase: B Bus: Bus99 Interval: 1 : 1.00713 p.u.
+Phase: C Bus: Bus99 Interval: 1 : 0.98667 p.u.
+Phase: A Bus: Bus100 Interval: 1 : 0.97278 p.u.
+Phase: B Bus: Bus100 Interval: 1 : 1.00707 p.u.
+Phase: C Bus: Bus100 Interval: 1 : 0.98628 p.u.
+Phase: A Bus: Bus101 Interval: 1 : 0.97169 p.u.
+Phase: B Bus: Bus101 Interval: 1 : 1.00794 p.u.
+Phase: C Bus: Bus101 Interval: 1 : 0.9866 p.u.
+Phase: A Bus: Bus102 Interval: 1 : NaN 
+Phase: B Bus: Bus102 Interval: 1 : NaN 
+Phase: C Bus: Bus102 Interval: 1 : 0.98509 p.u.
+Phase: A Bus: Bus103 Interval: 1 : NaN 
+Phase: B Bus: Bus103 Interval: 1 : NaN 
+Phase: C Bus: Bus103 Interval: 1 : 0.98336 p.u.
+Phase: A Bus: Bus104 Interval: 1 : NaN 
+Phase: B Bus: Bus104 Interval: 1 : NaN 
+Phase: C Bus: Bus104 Interval: 1 : 0.98148 p.u.
+Phase: A Bus: Bus105 Interval: 1 : 0.97032 p.u.
+Phase: B Bus: Bus105 Interval: 1 : 1.00778 p.u.
+Phase: C Bus: Bus105 Interval: 1 : 0.98687 p.u.
+Phase: A Bus: Bus106 Interval: 1 : NaN 
+Phase: B Bus: Bus106 Interval: 1 : 1.0066 p.u.
+Phase: C Bus: Bus106 Interval: 1 : NaN 
+Phase: A Bus: Bus107 Interval: 1 : NaN 
+Phase: B Bus: Bus107 Interval: 1 : 1.0051 p.u.
+Phase: C Bus: Bus107 Interval: 1 : NaN 
+Phase: A Bus: Bus108 Interval: 1 : 0.96879 p.u.
+Phase: B Bus: Bus108 Interval: 1 : 1.00843 p.u.
+Phase: C Bus: Bus108 Interval: 1 : 0.9867 p.u.
+Phase: A Bus: Bus109 Interval: 1 : 0.9645 p.u.
+Phase: B Bus: Bus109 Interval: 1 : NaN 
+Phase: C Bus: Bus109 Interval: 1 : NaN 
+Phase: A Bus: Bus110 Interval: 1 : 0.96245 p.u.
+Phase: B Bus: Bus110 Interval: 1 : NaN 
+Phase: C Bus: Bus110 Interval: 1 : NaN 
+Phase: A Bus: Bus111 Interval: 1 : 0.96166 p.u.
+Phase: B Bus: Bus111 Interval: 1 : NaN 
+Phase: C Bus: Bus111 Interval: 1 : NaN 
+Phase: A Bus: Bus112 Interval: 1 : 0.96177 p.u.
+Phase: B Bus: Bus112 Interval: 1 : NaN 
+Phase: C Bus: Bus112 Interval: 1 : NaN 
+Phase: A Bus: Bus113 Interval: 1 : 0.95961 p.u.
+Phase: B Bus: Bus113 Interval: 1 : NaN 
+Phase: C Bus: Bus113 Interval: 1 : NaN 
+Phase: A Bus: Bus114 Interval: 1 : 0.95916 p.u.
+Phase: B Bus: Bus114 Interval: 1 : NaN 
+Phase: C Bus: Bus114 Interval: 1 : NaN 
+Phase: A Bus: Bus135 Interval: 1 : 0.9952 p.u.
+Phase: B Bus: Bus135 Interval: 1 : 1.02529 p.u.
+Phase: C Bus: Bus135 Interval: 1 : 1.00665 p.u.
+Phase: A Bus: Bus149 Interval: 1 : 1.03997 p.u.
+Phase: B Bus: Bus149 Interval: 1 : 1.03999 p.u.
+Phase: C Bus: Bus149 Interval: 1 : 1.03998 p.u.
+Phase: A Bus: Bus151 Interval: 1 : 0.98814 p.u.
+Phase: B Bus: Bus151 Interval: 1 : 1.01909 p.u.
+Phase: C Bus: Bus151 Interval: 1 : 1.00213 p.u.
+Phase: A Bus: Bus152 Interval: 1 : 1.00429 p.u.
+Phase: B Bus: Bus152 Interval: 1 : 1.02795 p.u.
+Phase: C Bus: Bus152 Interval: 1 : 1.01331 p.u.
+Phase: A Bus: Bus167 Interval: 1 : 0.97754 p.u.
+Phase: B Bus: Bus167 Interval: 1 : 1.01112 p.u.
+Phase: C Bus: Bus167 Interval: 1 : 0.99147 p.u.
+Phase: A Bus: Bus197 Interval: 1 : 0.97252 p.u.
+Phase: B Bus: Bus197 Interval: 1 : 1.00822 p.u.
+Phase: C Bus: Bus197 Interval: 1 : 0.98717 p.u.
+Phase: A Bus: Bus250 Interval: 1 : 0.9933 p.u.
+Phase: B Bus: Bus250 Interval: 1 : 1.02651 p.u.
+Phase: C Bus: Bus250 Interval: 1 : 1.00217 p.u.
+Phase: A Bus: Bus300 Interval: 1 : 0.96879 p.u.
+Phase: B Bus: Bus300 Interval: 1 : 1.00843 p.u.
+Phase: C Bus: Bus300 Interval: 1 : 0.9867 p.u.
+Phase: A Bus: Bus450 Interval: 1 : 0.97278 p.u.
+Phase: B Bus: Bus450 Interval: 1 : 1.00707 p.u.
+Phase: C Bus: Bus450 Interval: 1 : 0.98628 p.u.
+Phase: A Bus: Bus610 Interval: 1 : 0.97755 p.u.
+Phase: B Bus: Bus610 Interval: 1 : 1.01113 p.u.
+Phase: C Bus: Bus610 Interval: 1 : 0.99148 p.u.
+
+END VOLTAGE MAGNITUDES
+
+Active Power at Each Node [Excludes Source Bus Injection]
+
+Phase: A Bus: Bus0 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus0 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus0 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus1 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus1 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus1 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus2 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus2 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus2 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus3 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus3 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus3 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus4 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus4 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus4 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus5 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus5 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus5 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus6 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus6 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus6 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus7 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus7 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus7 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus8 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus8 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus8 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus9 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus9 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus9 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus10 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus10 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus10 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus11 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus11 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus11 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus12 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus12 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus12 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus13 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus13 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus13 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus14 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus14 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus14 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus15 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus15 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus15 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus16 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus16 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus16 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus17 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus17 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus17 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus18 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus18 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus18 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus19 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus19 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus19 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus20 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus20 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus20 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus21 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus21 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus21 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus22 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus22 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus22 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus23 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus23 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus23 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus24 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus24 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus24 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus25 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus25 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus25 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus26 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus26 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus26 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus27 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus27 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus27 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus28 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus28 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus28 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus29 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus29 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus29 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus30 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus30 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus30 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus31 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus31 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus31 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus32 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus32 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus32 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus33 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus33 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus33 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus34 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus34 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus34 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus35 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus35 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus35 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus36 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus36 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus36 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus37 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus37 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus37 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus38 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus38 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus38 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus39 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus39 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus39 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus40 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus40 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus40 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus41 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus41 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus41 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus42 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus42 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus42 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus43 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus43 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus43 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus44 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus44 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus44 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus45 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus45 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus45 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus46 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus46 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus46 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus47 Interval: 1 : -35.0 kW
+Phase: B Bus: Bus47 Interval: 1 : -35.0 kW
+Phase: C Bus: Bus47 Interval: 1 : -35.0 kW
+Phase: A Bus: Bus48 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus48 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus48 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus49 Interval: 1 : -35.0 kW
+Phase: B Bus: Bus49 Interval: 1 : -70.0 kW
+Phase: C Bus: Bus49 Interval: 1 : -35.0 kW
+Phase: A Bus: Bus50 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus50 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus50 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus51 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus51 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus51 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus52 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus52 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus52 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus53 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus53 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus53 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus54 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus54 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus54 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus55 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus55 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus55 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus56 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus56 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus56 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus57 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus57 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus57 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus58 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus58 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus58 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus59 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus59 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus59 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus60 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus60 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus60 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus61 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus61 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus61 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus62 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus62 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus62 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus63 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus63 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus63 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus64 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus64 Interval: 1 : -75.0 kW
+Phase: C Bus: Bus64 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus65 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus65 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus65 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus66 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus66 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus66 Interval: 1 : -75.0 kW
+Phase: A Bus: Bus67 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus67 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus67 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus68 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus68 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus68 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus69 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus69 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus69 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus70 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus70 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus70 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus71 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus71 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus71 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus72 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus72 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus72 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus73 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus73 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus73 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus74 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus74 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus74 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus75 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus75 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus75 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus76 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus76 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus76 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus77 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus77 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus77 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus78 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus78 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus78 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus79 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus79 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus79 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus80 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus80 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus80 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus81 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus81 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus81 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus82 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus82 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus82 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus83 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus83 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus83 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus84 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus84 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus84 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus85 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus85 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus85 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus86 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus86 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus86 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus87 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus87 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus87 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus88 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus88 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus88 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus89 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus89 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus89 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus90 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus90 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus90 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus91 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus91 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus91 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus92 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus92 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus92 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus93 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus93 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus93 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus94 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus94 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus94 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus95 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus95 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus95 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus96 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus96 Interval: 1 : -20.0 kW
+Phase: C Bus: Bus96 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus97 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus97 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus97 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus98 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus98 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus98 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus99 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus99 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus99 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus100 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus100 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus100 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus101 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus101 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus101 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus102 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus102 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus102 Interval: 1 : -20.0 kW
+Phase: A Bus: Bus103 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus103 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus103 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus104 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus104 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus104 Interval: 1 : -40.0 kW
+Phase: A Bus: Bus105 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus105 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus105 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus106 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus106 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus106 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus107 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus107 Interval: 1 : -40.0 kW
+Phase: C Bus: Bus107 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus108 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus108 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus108 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus109 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus109 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus109 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus110 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus110 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus110 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus111 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus111 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus111 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus112 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus112 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus112 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus113 Interval: 1 : -40.0 kW
+Phase: B Bus: Bus113 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus113 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus114 Interval: 1 : -20.0 kW
+Phase: B Bus: Bus114 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus114 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus135 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus135 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus135 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus149 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus149 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus149 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus151 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus151 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus151 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus152 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus152 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus152 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus167 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus167 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus167 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus197 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus197 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus197 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus250 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus250 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus250 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus300 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus300 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus300 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus450 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus450 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus450 Interval: 1 : 0.0 kW
+Phase: A Bus: Bus610 Interval: 1 : 0.0 kW
+Phase: B Bus: Bus610 Interval: 1 : 0.0 kW
+Phase: C Bus: Bus610 Interval: 1 : 0.0 kW
+
+END_ACTIVE_POWER_AT_EACH_NODE
+
+LINE_ACTIVE_POWER_FLOWS
+
+Phase: A Line Connecting: Bus149 to Bus1 Interval: 1 : 1010.0 kW
+Phase: B Line Connecting: Bus149 to Bus1 Interval: 1 : 740.0 kW
+Phase: C Line Connecting: Bus149 to Bus1 Interval: 1 : 945.0 kW
+Phase: A Line Connecting: Bus1 to Bus2 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus1 to Bus2 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus1 to Bus2 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus1 to Bus3 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus1 to Bus3 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus1 to Bus3 Interval: 1 : 100.0 kW
+Phase: A Line Connecting: Bus3 to Bus4 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus3 to Bus4 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus3 to Bus4 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus3 to Bus5 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus3 to Bus5 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus3 to Bus5 Interval: 1 : 60.0 kW
+Phase: A Line Connecting: Bus5 to Bus6 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus5 to Bus6 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus5 to Bus6 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus1 to Bus7 Interval: 1 : 1010.0 kW
+Phase: B Line Connecting: Bus1 to Bus7 Interval: 1 : 720.0 kW
+Phase: C Line Connecting: Bus1 to Bus7 Interval: 1 : 845.0 kW
+Phase: A Line Connecting: Bus7 to Bus8 Interval: 1 : 1010.0 kW
+Phase: B Line Connecting: Bus7 to Bus8 Interval: 1 : 720.0 kW
+Phase: C Line Connecting: Bus7 to Bus8 Interval: 1 : 845.0 kW
+Phase: A Line Connecting: Bus8 to Bus9 Interval: 1 : 60.0 kW
+Phase: B Line Connecting: Bus8 to Bus9 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus8 to Bus9 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus14 to Bus10 Interval: 1 : 20.0 kW
+Phase: B Line Connecting: Bus14 to Bus10 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus14 to Bus10 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus14 to Bus11 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus14 to Bus11 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus14 to Bus11 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus8 to Bus12 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus8 to Bus12 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus8 to Bus12 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus8 to Bus13 Interval: 1 : 950.0 kW
+Phase: B Line Connecting: Bus8 to Bus13 Interval: 1 : 700.0 kW
+Phase: C Line Connecting: Bus8 to Bus13 Interval: 1 : 845.0 kW
+Phase: A Line Connecting: Bus9 to Bus14 Interval: 1 : 60.0 kW
+Phase: B Line Connecting: Bus9 to Bus14 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus9 to Bus14 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus34 to Bus15 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus34 to Bus15 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus34 to Bus15 Interval: 1 : 60.0 kW
+Phase: A Line Connecting: Bus15 to Bus16 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus15 to Bus16 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus15 to Bus16 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus15 to Bus17 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus15 to Bus17 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus15 to Bus17 Interval: 1 : 20.0 kW
+Phase: A Line Connecting: Bus13 to Bus18 Interval: 1 : 410.0 kW
+Phase: B Line Connecting: Bus13 to Bus18 Interval: 1 : 225.0 kW
+Phase: C Line Connecting: Bus13 to Bus18 Interval: 1 : 250.0 kW
+Phase: A Line Connecting: Bus18 to Bus19 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus18 to Bus19 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus18 to Bus19 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus19 to Bus20 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus19 to Bus20 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus19 to Bus20 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus18 to Bus21 Interval: 1 : 120.0 kW
+Phase: B Line Connecting: Bus18 to Bus21 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus18 to Bus21 Interval: 1 : 120.0 kW
+Phase: A Line Connecting: Bus21 to Bus22 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus21 to Bus22 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus21 to Bus22 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus21 to Bus23 Interval: 1 : 120.0 kW
+Phase: B Line Connecting: Bus21 to Bus23 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus21 to Bus23 Interval: 1 : 120.0 kW
+Phase: A Line Connecting: Bus23 to Bus24 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus23 to Bus24 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus23 to Bus24 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus23 to Bus25 Interval: 1 : 120.0 kW
+Phase: B Line Connecting: Bus23 to Bus25 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus23 to Bus25 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus25 to Bus26 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus25 to Bus26 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus25 to Bus26 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus26 to Bus27 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus26 to Bus27 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus26 to Bus27 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus25 to Bus28 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus25 to Bus28 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus25 to Bus28 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus28 to Bus29 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus28 to Bus29 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus28 to Bus29 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus29 to Bus30 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus29 to Bus30 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus29 to Bus30 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus26 to Bus31 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus26 to Bus31 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus26 to Bus31 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus31 to Bus32 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus31 to Bus32 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus31 to Bus32 Interval: 1 : 20.0 kW
+Phase: A Line Connecting: Bus27 to Bus33 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus27 to Bus33 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus27 to Bus33 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus13 to Bus34 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus13 to Bus34 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus13 to Bus34 Interval: 1 : 100.0 kW
+Phase: A Line Connecting: Bus135 to Bus35 Interval: 1 : 210.0 kW
+Phase: B Line Connecting: Bus135 to Bus35 Interval: 1 : 185.0 kW
+Phase: C Line Connecting: Bus135 to Bus35 Interval: 1 : 130.0 kW
+Phase: A Line Connecting: Bus35 to Bus36 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus35 to Bus36 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus35 to Bus36 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus36 to Bus37 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus36 to Bus37 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus36 to Bus37 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus36 to Bus38 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus36 to Bus38 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus36 to Bus38 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus38 to Bus39 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus38 to Bus39 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus38 to Bus39 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus35 to Bus40 Interval: 1 : 130.0 kW
+Phase: B Line Connecting: Bus35 to Bus40 Interval: 1 : 145.0 kW
+Phase: C Line Connecting: Bus35 to Bus40 Interval: 1 : 130.0 kW
+Phase: A Line Connecting: Bus40 to Bus41 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus40 to Bus41 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus40 to Bus41 Interval: 1 : 20.0 kW
+Phase: A Line Connecting: Bus40 to Bus42 Interval: 1 : 130.0 kW
+Phase: B Line Connecting: Bus40 to Bus42 Interval: 1 : 145.0 kW
+Phase: C Line Connecting: Bus40 to Bus42 Interval: 1 : 110.0 kW
+Phase: A Line Connecting: Bus42 to Bus43 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus42 to Bus43 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus42 to Bus43 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus42 to Bus44 Interval: 1 : 110.0 kW
+Phase: B Line Connecting: Bus42 to Bus44 Interval: 1 : 105.0 kW
+Phase: C Line Connecting: Bus42 to Bus44 Interval: 1 : 110.0 kW
+Phase: A Line Connecting: Bus44 to Bus45 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus44 to Bus45 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus44 to Bus45 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus45 to Bus46 Interval: 1 : 20.0 kW
+Phase: B Line Connecting: Bus45 to Bus46 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus45 to Bus46 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus44 to Bus47 Interval: 1 : 70.0 kW
+Phase: B Line Connecting: Bus44 to Bus47 Interval: 1 : 105.0 kW
+Phase: C Line Connecting: Bus44 to Bus47 Interval: 1 : 110.0 kW
+Phase: A Line Connecting: Bus47 to Bus48 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus47 to Bus48 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus47 to Bus48 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus47 to Bus49 Interval: 1 : 35.0 kW
+Phase: B Line Connecting: Bus47 to Bus49 Interval: 1 : 70.0 kW
+Phase: C Line Connecting: Bus47 to Bus49 Interval: 1 : 75.0 kW
+Phase: A Line Connecting: Bus49 to Bus50 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus49 to Bus50 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus49 to Bus50 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus50 to Bus51 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus50 to Bus51 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus50 to Bus51 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus152 to Bus52 Interval: 1 : 540.0 kW
+Phase: B Line Connecting: Bus152 to Bus52 Interval: 1 : 475.0 kW
+Phase: C Line Connecting: Bus152 to Bus52 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus52 to Bus53 Interval: 1 : 540.0 kW
+Phase: B Line Connecting: Bus52 to Bus53 Interval: 1 : 475.0 kW
+Phase: C Line Connecting: Bus52 to Bus53 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus53 to Bus54 Interval: 1 : 540.0 kW
+Phase: B Line Connecting: Bus53 to Bus54 Interval: 1 : 475.0 kW
+Phase: C Line Connecting: Bus53 to Bus54 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus54 to Bus55 Interval: 1 : 20.0 kW
+Phase: B Line Connecting: Bus54 to Bus55 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus54 to Bus55 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus55 to Bus56 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus55 to Bus56 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus55 to Bus56 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus54 to Bus57 Interval: 1 : 520.0 kW
+Phase: B Line Connecting: Bus54 to Bus57 Interval: 1 : 455.0 kW
+Phase: C Line Connecting: Bus54 to Bus57 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus57 to Bus58 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus57 to Bus58 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus57 to Bus58 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus58 to Bus59 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus58 to Bus59 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus58 to Bus59 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus57 to Bus60 Interval: 1 : 520.0 kW
+Phase: B Line Connecting: Bus57 to Bus60 Interval: 1 : 415.0 kW
+Phase: C Line Connecting: Bus57 to Bus60 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus60 to Bus62 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus60 to Bus62 Interval: 1 : 75.0 kW
+Phase: C Line Connecting: Bus60 to Bus62 Interval: 1 : 115.0 kW
+Phase: A Line Connecting: Bus62 to Bus63 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus62 to Bus63 Interval: 1 : 75.0 kW
+Phase: C Line Connecting: Bus62 to Bus63 Interval: 1 : 75.0 kW
+Phase: A Line Connecting: Bus63 to Bus64 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus63 to Bus64 Interval: 1 : 75.0 kW
+Phase: C Line Connecting: Bus63 to Bus64 Interval: 1 : 75.0 kW
+Phase: A Line Connecting: Bus64 to Bus65 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus64 to Bus65 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus64 to Bus65 Interval: 1 : 75.0 kW
+Phase: A Line Connecting: Bus65 to Bus66 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus65 to Bus66 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus65 to Bus66 Interval: 1 : 75.0 kW
+Phase: A Line Connecting: Bus167 to Bus67 Interval: 1 : 460.0 kW
+Phase: B Line Connecting: Bus167 to Bus67 Interval: 1 : 340.0 kW
+Phase: C Line Connecting: Bus167 to Bus67 Interval: 1 : 380.0 kW
+Phase: A Line Connecting: Bus67 to Bus68 Interval: 1 : 120.0 kW
+Phase: B Line Connecting: Bus67 to Bus68 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus67 to Bus68 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus68 to Bus69 Interval: 1 : 100.0 kW
+Phase: B Line Connecting: Bus68 to Bus69 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus68 to Bus69 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus69 to Bus70 Interval: 1 : 60.0 kW
+Phase: B Line Connecting: Bus69 to Bus70 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus69 to Bus70 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus70 to Bus71 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus70 to Bus71 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus70 to Bus71 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus67 to Bus72 Interval: 1 : 160.0 kW
+Phase: B Line Connecting: Bus67 to Bus72 Interval: 1 : 220.0 kW
+Phase: C Line Connecting: Bus67 to Bus72 Interval: 1 : 240.0 kW
+Phase: A Line Connecting: Bus72 to Bus73 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus72 to Bus73 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus72 to Bus73 Interval: 1 : 120.0 kW
+Phase: A Line Connecting: Bus73 to Bus74 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus73 to Bus74 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus73 to Bus74 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus74 to Bus75 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus74 to Bus75 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus74 to Bus75 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus72 to Bus76 Interval: 1 : 160.0 kW
+Phase: B Line Connecting: Bus72 to Bus76 Interval: 1 : 220.0 kW
+Phase: C Line Connecting: Bus72 to Bus76 Interval: 1 : 120.0 kW
+Phase: A Line Connecting: Bus76 to Bus77 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus76 to Bus77 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus76 to Bus77 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus77 to Bus78 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus77 to Bus78 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus77 to Bus78 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus78 to Bus79 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus78 to Bus79 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus78 to Bus79 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus78 to Bus80 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus78 to Bus80 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus78 to Bus80 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus80 to Bus81 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus80 to Bus81 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus80 to Bus81 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus81 to Bus82 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus81 to Bus82 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus81 to Bus82 Interval: 1 : 20.0 kW
+Phase: A Line Connecting: Bus82 to Bus83 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus82 to Bus83 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus82 to Bus83 Interval: 1 : 20.0 kW
+Phase: A Line Connecting: Bus81 to Bus84 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus81 to Bus84 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus81 to Bus84 Interval: 1 : 60.0 kW
+Phase: A Line Connecting: Bus84 to Bus85 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus84 to Bus85 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus84 to Bus85 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus76 to Bus86 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus76 to Bus86 Interval: 1 : 140.0 kW
+Phase: C Line Connecting: Bus76 to Bus86 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus86 to Bus87 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus86 to Bus87 Interval: 1 : 120.0 kW
+Phase: C Line Connecting: Bus86 to Bus87 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus87 to Bus88 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus87 to Bus88 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus87 to Bus88 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus87 to Bus89 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus87 to Bus89 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus87 to Bus89 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus89 to Bus90 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus89 to Bus90 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus89 to Bus90 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus89 to Bus91 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus89 to Bus91 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus89 to Bus91 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus91 to Bus92 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus91 to Bus92 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus91 to Bus92 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus91 to Bus93 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus91 to Bus93 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus91 to Bus93 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus93 to Bus94 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus93 to Bus94 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus93 to Bus94 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus93 to Bus95 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus93 to Bus95 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus93 to Bus95 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus95 to Bus96 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus95 to Bus96 Interval: 1 : 20.0 kW
+Phase: C Line Connecting: Bus95 to Bus96 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus67 to Bus97 Interval: 1 : 180.0 kW
+Phase: B Line Connecting: Bus67 to Bus97 Interval: 1 : 120.0 kW
+Phase: C Line Connecting: Bus67 to Bus97 Interval: 1 : 140.0 kW
+Phase: A Line Connecting: Bus97 to Bus98 Interval: 1 : 40.0 kW
+Phase: B Line Connecting: Bus97 to Bus98 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus97 to Bus98 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus98 to Bus99 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus98 to Bus99 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus98 to Bus99 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus99 to Bus100 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus99 to Bus100 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus99 to Bus100 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus197 to Bus101 Interval: 1 : 140.0 kW
+Phase: B Line Connecting: Bus197 to Bus101 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus197 to Bus101 Interval: 1 : 100.0 kW
+Phase: A Line Connecting: Bus101 to Bus102 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus101 to Bus102 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus101 to Bus102 Interval: 1 : 100.0 kW
+Phase: A Line Connecting: Bus102 to Bus103 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus102 to Bus103 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus102 to Bus103 Interval: 1 : 80.0 kW
+Phase: A Line Connecting: Bus103 to Bus104 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus103 to Bus104 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus103 to Bus104 Interval: 1 : 40.0 kW
+Phase: A Line Connecting: Bus101 to Bus105 Interval: 1 : 140.0 kW
+Phase: B Line Connecting: Bus101 to Bus105 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus101 to Bus105 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus105 to Bus106 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus105 to Bus106 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus105 to Bus106 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus106 to Bus107 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus106 to Bus107 Interval: 1 : 40.0 kW
+Phase: C Line Connecting: Bus106 to Bus107 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus105 to Bus108 Interval: 1 : 140.0 kW
+Phase: B Line Connecting: Bus105 to Bus108 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus105 to Bus108 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus108 to Bus109 Interval: 1 : 140.0 kW
+Phase: B Line Connecting: Bus108 to Bus109 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus108 to Bus109 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus109 to Bus110 Interval: 1 : 100.0 kW
+Phase: B Line Connecting: Bus109 to Bus110 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus109 to Bus110 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus110 to Bus111 Interval: 1 : 20.0 kW
+Phase: B Line Connecting: Bus110 to Bus111 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus110 to Bus111 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus110 to Bus112 Interval: 1 : 80.0 kW
+Phase: B Line Connecting: Bus110 to Bus112 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus110 to Bus112 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus112 to Bus113 Interval: 1 : 60.0 kW
+Phase: B Line Connecting: Bus112 to Bus113 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus112 to Bus113 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus113 to Bus114 Interval: 1 : 20.0 kW
+Phase: B Line Connecting: Bus113 to Bus114 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus113 to Bus114 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus18 to Bus135 Interval: 1 : 210.0 kW
+Phase: B Line Connecting: Bus18 to Bus135 Interval: 1 : 185.0 kW
+Phase: C Line Connecting: Bus18 to Bus135 Interval: 1 : 130.0 kW
+Phase: A Line Connecting: Bus0 to Bus149 Interval: 1 : 1010.0 kW
+Phase: B Line Connecting: Bus0 to Bus149 Interval: 1 : 740.0 kW
+Phase: C Line Connecting: Bus0 to Bus149 Interval: 1 : 945.0 kW
+Phase: A Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus13 to Bus152 Interval: 1 : 540.0 kW
+Phase: B Line Connecting: Bus13 to Bus152 Interval: 1 : 475.0 kW
+Phase: C Line Connecting: Bus13 to Bus152 Interval: 1 : 495.0 kW
+Phase: A Line Connecting: Bus60 to Bus167 Interval: 1 : 460.0 kW
+Phase: B Line Connecting: Bus60 to Bus167 Interval: 1 : 340.0 kW
+Phase: C Line Connecting: Bus60 to Bus167 Interval: 1 : 380.0 kW
+Phase: A Line Connecting: Bus97 to Bus197 Interval: 1 : 140.0 kW
+Phase: B Line Connecting: Bus97 to Bus197 Interval: 1 : 80.0 kW
+Phase: C Line Connecting: Bus97 to Bus197 Interval: 1 : 100.0 kW
+Phase: A Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kW
+Phase: A Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kW
+Phase: B Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kW
+Phase: C Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kW
+
+END_LINE_ACTIVE_POWER_FLOWS
+
+Reactive Power at Each Node [Excludes Source Bus Injection]
+
+Phase: A Bus: Bus0 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus0 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus0 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus1 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus1 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus1 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus2 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus2 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus2 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus3 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus3 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus3 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus4 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus4 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus4 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus5 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus5 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus5 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus6 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus6 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus6 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus7 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus7 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus7 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus8 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus8 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus8 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus9 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus9 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus9 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus10 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus10 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus10 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus11 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus11 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus11 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus12 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus12 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus12 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus13 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus13 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus13 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus14 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus14 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus14 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus15 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus15 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus15 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus16 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus16 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus16 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus17 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus17 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus17 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus18 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus18 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus18 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus19 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus19 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus19 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus20 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus20 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus20 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus21 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus21 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus21 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus22 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus22 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus22 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus23 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus23 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus23 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus24 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus24 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus24 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus25 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus25 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus25 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus26 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus26 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus26 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus27 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus27 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus27 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus28 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus28 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus28 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus29 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus29 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus29 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus30 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus30 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus30 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus31 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus31 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus31 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus32 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus32 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus32 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus33 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus33 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus33 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus34 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus34 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus34 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus35 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus35 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus35 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus36 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus36 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus36 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus37 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus37 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus37 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus38 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus38 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus38 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus39 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus39 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus39 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus40 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus40 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus40 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus41 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus41 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus41 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus42 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus42 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus42 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus43 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus43 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus43 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus44 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus44 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus44 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus45 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus45 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus45 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus46 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus46 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus46 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus47 Interval: 1 : -25.0 kVaR
+Phase: B Bus: Bus47 Interval: 1 : -25.0 kVaR
+Phase: C Bus: Bus47 Interval: 1 : -25.0 kVaR
+Phase: A Bus: Bus48 Interval: 1 : -50.0 kVaR
+Phase: B Bus: Bus48 Interval: 1 : -50.0 kVaR
+Phase: C Bus: Bus48 Interval: 1 : -50.0 kVaR
+Phase: A Bus: Bus49 Interval: 1 : -25.0 kVaR
+Phase: B Bus: Bus49 Interval: 1 : -50.0 kVaR
+Phase: C Bus: Bus49 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus50 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus50 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus50 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus51 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus51 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus51 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus52 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus52 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus52 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus53 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus53 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus53 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus54 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus54 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus54 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus55 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus55 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus55 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus56 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus56 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus56 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus57 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus57 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus57 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus58 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus58 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus58 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus59 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus59 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus59 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus60 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus60 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus60 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus61 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus61 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus61 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus62 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus62 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus62 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus63 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus63 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus63 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus64 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus64 Interval: 1 : -35.0 kVaR
+Phase: C Bus: Bus64 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus65 Interval: 1 : -25.0 kVaR
+Phase: B Bus: Bus65 Interval: 1 : -25.0 kVaR
+Phase: C Bus: Bus65 Interval: 1 : -50.0 kVaR
+Phase: A Bus: Bus66 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus66 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus66 Interval: 1 : -35.0 kVaR
+Phase: A Bus: Bus67 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus67 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus67 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus68 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus68 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus68 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus69 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus69 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus69 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus70 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus70 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus70 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus71 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus71 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus71 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus72 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus72 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus72 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus73 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus73 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus73 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus74 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus74 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus74 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus75 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus75 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus75 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus76 Interval: 1 : -80.0 kVaR
+Phase: B Bus: Bus76 Interval: 1 : -50.0 kVaR
+Phase: C Bus: Bus76 Interval: 1 : -50.0 kVaR
+Phase: A Bus: Bus77 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus77 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus77 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus78 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus78 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus78 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus79 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus79 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus79 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus80 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus80 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus80 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus81 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus81 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus81 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus82 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus82 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus82 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus83 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus83 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus83 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus84 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus84 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus84 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus85 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus85 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus85 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus86 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus86 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus86 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus87 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus87 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus87 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus88 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus88 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus88 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus89 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus89 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus89 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus90 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus90 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus90 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus91 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus91 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus91 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus92 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus92 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus92 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus93 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus93 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus93 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus94 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus94 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus94 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus95 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus95 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus95 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus96 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus96 Interval: 1 : -10.0 kVaR
+Phase: C Bus: Bus96 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus97 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus97 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus97 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus98 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus98 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus98 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus99 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus99 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus99 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus100 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus100 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus100 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus101 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus101 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus101 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus102 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus102 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus102 Interval: 1 : -10.0 kVaR
+Phase: A Bus: Bus103 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus103 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus103 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus104 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus104 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus104 Interval: 1 : -20.0 kVaR
+Phase: A Bus: Bus105 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus105 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus105 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus106 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus106 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus106 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus107 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus107 Interval: 1 : -20.0 kVaR
+Phase: C Bus: Bus107 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus108 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus108 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus108 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus109 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus109 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus109 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus110 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus110 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus110 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus111 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus111 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus111 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus112 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus112 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus112 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus113 Interval: 1 : -20.0 kVaR
+Phase: B Bus: Bus113 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus113 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus114 Interval: 1 : -10.0 kVaR
+Phase: B Bus: Bus114 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus114 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus135 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus135 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus135 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus149 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus149 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus149 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus151 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus151 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus151 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus152 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus152 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus152 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus167 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus167 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus167 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus197 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus197 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus197 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus250 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus250 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus250 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus300 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus300 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus300 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus450 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus450 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus450 Interval: 1 : 0.0 kVaR
+Phase: A Bus: Bus610 Interval: 1 : 0.0 kVaR
+Phase: B Bus: Bus610 Interval: 1 : 0.0 kVaR
+Phase: C Bus: Bus610 Interval: 1 : 0.0 kVaR
+
+END_REACTIVE_POWER_AT_EACH_NODE
+
+LINE_REACTIVE_POWER_FLOWS
+
+Phase: A Line Connecting: Bus149 to Bus1 Interval: 1 : 775.0 kVaR
+Phase: B Line Connecting: Bus149 to Bus1 Interval: 1 : 515.0 kVaR
+Phase: C Line Connecting: Bus149 to Bus1 Interval: 1 : 630.0 kVaR
+Phase: A Line Connecting: Bus1 to Bus2 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus1 to Bus2 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus1 to Bus2 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus1 to Bus3 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus1 to Bus3 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus1 to Bus3 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus3 to Bus4 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus3 to Bus4 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus3 to Bus4 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus3 to Bus5 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus3 to Bus5 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus3 to Bus5 Interval: 1 : 30.0 kVaR
+Phase: A Line Connecting: Bus5 to Bus6 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus5 to Bus6 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus5 to Bus6 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus1 to Bus7 Interval: 1 : 755.0 kVaR
+Phase: B Line Connecting: Bus1 to Bus7 Interval: 1 : 505.0 kVaR
+Phase: C Line Connecting: Bus1 to Bus7 Interval: 1 : 580.0 kVaR
+Phase: A Line Connecting: Bus7 to Bus8 Interval: 1 : 745.0 kVaR
+Phase: B Line Connecting: Bus7 to Bus8 Interval: 1 : 505.0 kVaR
+Phase: C Line Connecting: Bus7 to Bus8 Interval: 1 : 580.0 kVaR
+Phase: A Line Connecting: Bus8 to Bus9 Interval: 1 : 50.0 kVaR
+Phase: B Line Connecting: Bus8 to Bus9 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus8 to Bus9 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus14 to Bus10 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus14 to Bus10 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus14 to Bus10 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus14 to Bus11 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus14 to Bus11 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus14 to Bus11 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus8 to Bus12 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus8 to Bus12 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus8 to Bus12 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus8 to Bus13 Interval: 1 : 695.0 kVaR
+Phase: B Line Connecting: Bus8 to Bus13 Interval: 1 : 495.0 kVaR
+Phase: C Line Connecting: Bus8 to Bus13 Interval: 1 : 580.0 kVaR
+Phase: A Line Connecting: Bus9 to Bus14 Interval: 1 : 30.0 kVaR
+Phase: B Line Connecting: Bus9 to Bus14 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus9 to Bus14 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus34 to Bus15 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus34 to Bus15 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus34 to Bus15 Interval: 1 : 30.0 kVaR
+Phase: A Line Connecting: Bus15 to Bus16 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus15 to Bus16 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus15 to Bus16 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus15 to Bus17 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus15 to Bus17 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus15 to Bus17 Interval: 1 : 10.0 kVaR
+Phase: A Line Connecting: Bus13 to Bus18 Interval: 1 : 280.0 kVaR
+Phase: B Line Connecting: Bus13 to Bus18 Interval: 1 : 185.0 kVaR
+Phase: C Line Connecting: Bus13 to Bus18 Interval: 1 : 185.0 kVaR
+Phase: A Line Connecting: Bus18 to Bus19 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus18 to Bus19 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus18 to Bus19 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus19 to Bus20 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus19 to Bus20 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus19 to Bus20 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus18 to Bus21 Interval: 1 : 60.0 kVaR
+Phase: B Line Connecting: Bus18 to Bus21 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus18 to Bus21 Interval: 1 : 60.0 kVaR
+Phase: A Line Connecting: Bus21 to Bus22 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus21 to Bus22 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus21 to Bus22 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus21 to Bus23 Interval: 1 : 60.0 kVaR
+Phase: B Line Connecting: Bus21 to Bus23 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus21 to Bus23 Interval: 1 : 60.0 kVaR
+Phase: A Line Connecting: Bus23 to Bus24 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus23 to Bus24 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus23 to Bus24 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus23 to Bus25 Interval: 1 : 60.0 kVaR
+Phase: B Line Connecting: Bus23 to Bus25 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus23 to Bus25 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus25 to Bus26 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus25 to Bus26 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus25 to Bus26 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus26 to Bus27 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus26 to Bus27 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus26 to Bus27 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus25 to Bus28 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus25 to Bus28 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus25 to Bus28 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus28 to Bus29 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus28 to Bus29 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus28 to Bus29 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus29 to Bus30 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus29 to Bus30 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus29 to Bus30 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus26 to Bus31 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus26 to Bus31 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus26 to Bus31 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus31 to Bus32 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus31 to Bus32 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus31 to Bus32 Interval: 1 : 10.0 kVaR
+Phase: A Line Connecting: Bus27 to Bus33 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus27 to Bus33 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus27 to Bus33 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus13 to Bus34 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus13 to Bus34 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus13 to Bus34 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus135 to Bus35 Interval: 1 : 180.0 kVaR
+Phase: B Line Connecting: Bus135 to Bus35 Interval: 1 : 165.0 kVaR
+Phase: C Line Connecting: Bus135 to Bus35 Interval: 1 : 125.0 kVaR
+Phase: A Line Connecting: Bus35 to Bus36 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus35 to Bus36 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus35 to Bus36 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus36 to Bus37 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus36 to Bus37 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus36 to Bus37 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus36 to Bus38 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus36 to Bus38 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus36 to Bus38 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus38 to Bus39 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus38 to Bus39 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus38 to Bus39 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus35 to Bus40 Interval: 1 : 140.0 kVaR
+Phase: B Line Connecting: Bus35 to Bus40 Interval: 1 : 145.0 kVaR
+Phase: C Line Connecting: Bus35 to Bus40 Interval: 1 : 125.0 kVaR
+Phase: A Line Connecting: Bus40 to Bus41 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus40 to Bus41 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus40 to Bus41 Interval: 1 : 10.0 kVaR
+Phase: A Line Connecting: Bus40 to Bus42 Interval: 1 : 140.0 kVaR
+Phase: B Line Connecting: Bus40 to Bus42 Interval: 1 : 145.0 kVaR
+Phase: C Line Connecting: Bus40 to Bus42 Interval: 1 : 115.0 kVaR
+Phase: A Line Connecting: Bus42 to Bus43 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus42 to Bus43 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus42 to Bus43 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus42 to Bus44 Interval: 1 : 130.0 kVaR
+Phase: B Line Connecting: Bus42 to Bus44 Interval: 1 : 125.0 kVaR
+Phase: C Line Connecting: Bus42 to Bus44 Interval: 1 : 115.0 kVaR
+Phase: A Line Connecting: Bus44 to Bus45 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus44 to Bus45 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus44 to Bus45 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus45 to Bus46 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus45 to Bus46 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus45 to Bus46 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus44 to Bus47 Interval: 1 : 110.0 kVaR
+Phase: B Line Connecting: Bus44 to Bus47 Interval: 1 : 125.0 kVaR
+Phase: C Line Connecting: Bus44 to Bus47 Interval: 1 : 115.0 kVaR
+Phase: A Line Connecting: Bus47 to Bus48 Interval: 1 : 50.0 kVaR
+Phase: B Line Connecting: Bus47 to Bus48 Interval: 1 : 50.0 kVaR
+Phase: C Line Connecting: Bus47 to Bus48 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus47 to Bus49 Interval: 1 : 35.0 kVaR
+Phase: B Line Connecting: Bus47 to Bus49 Interval: 1 : 50.0 kVaR
+Phase: C Line Connecting: Bus47 to Bus49 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus49 to Bus50 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus49 to Bus50 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus49 to Bus50 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus50 to Bus51 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus50 to Bus51 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus50 to Bus51 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus152 to Bus52 Interval: 1 : 415.0 kVaR
+Phase: B Line Connecting: Bus152 to Bus52 Interval: 1 : 310.0 kVaR
+Phase: C Line Connecting: Bus152 to Bus52 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus52 to Bus53 Interval: 1 : 395.0 kVaR
+Phase: B Line Connecting: Bus52 to Bus53 Interval: 1 : 310.0 kVaR
+Phase: C Line Connecting: Bus52 to Bus53 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus53 to Bus54 Interval: 1 : 375.0 kVaR
+Phase: B Line Connecting: Bus53 to Bus54 Interval: 1 : 310.0 kVaR
+Phase: C Line Connecting: Bus53 to Bus54 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus54 to Bus55 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus54 to Bus55 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus54 to Bus55 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus55 to Bus56 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus55 to Bus56 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus55 to Bus56 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus54 to Bus57 Interval: 1 : 365.0 kVaR
+Phase: B Line Connecting: Bus54 to Bus57 Interval: 1 : 300.0 kVaR
+Phase: C Line Connecting: Bus54 to Bus57 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus57 to Bus58 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus57 to Bus58 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus57 to Bus58 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus58 to Bus59 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus58 to Bus59 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus58 to Bus59 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus57 to Bus60 Interval: 1 : 365.0 kVaR
+Phase: B Line Connecting: Bus57 to Bus60 Interval: 1 : 280.0 kVaR
+Phase: C Line Connecting: Bus57 to Bus60 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus60 to Bus61 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus60 to Bus62 Interval: 1 : 45.0 kVaR
+Phase: B Line Connecting: Bus60 to Bus62 Interval: 1 : 60.0 kVaR
+Phase: C Line Connecting: Bus60 to Bus62 Interval: 1 : 105.0 kVaR
+Phase: A Line Connecting: Bus62 to Bus63 Interval: 1 : 45.0 kVaR
+Phase: B Line Connecting: Bus62 to Bus63 Interval: 1 : 60.0 kVaR
+Phase: C Line Connecting: Bus62 to Bus63 Interval: 1 : 85.0 kVaR
+Phase: A Line Connecting: Bus63 to Bus64 Interval: 1 : 25.0 kVaR
+Phase: B Line Connecting: Bus63 to Bus64 Interval: 1 : 60.0 kVaR
+Phase: C Line Connecting: Bus63 to Bus64 Interval: 1 : 85.0 kVaR
+Phase: A Line Connecting: Bus64 to Bus65 Interval: 1 : 25.0 kVaR
+Phase: B Line Connecting: Bus64 to Bus65 Interval: 1 : 25.0 kVaR
+Phase: C Line Connecting: Bus64 to Bus65 Interval: 1 : 85.0 kVaR
+Phase: A Line Connecting: Bus65 to Bus66 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus65 to Bus66 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus65 to Bus66 Interval: 1 : 35.0 kVaR
+Phase: A Line Connecting: Bus167 to Bus67 Interval: 1 : 310.0 kVaR
+Phase: B Line Connecting: Bus167 to Bus67 Interval: 1 : 220.0 kVaR
+Phase: C Line Connecting: Bus167 to Bus67 Interval: 1 : 240.0 kVaR
+Phase: A Line Connecting: Bus67 to Bus68 Interval: 1 : 60.0 kVaR
+Phase: B Line Connecting: Bus67 to Bus68 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus67 to Bus68 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus68 to Bus69 Interval: 1 : 50.0 kVaR
+Phase: B Line Connecting: Bus68 to Bus69 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus68 to Bus69 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus69 to Bus70 Interval: 1 : 30.0 kVaR
+Phase: B Line Connecting: Bus69 to Bus70 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus69 to Bus70 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus70 to Bus71 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus70 to Bus71 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus70 to Bus71 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus67 to Bus72 Interval: 1 : 160.0 kVaR
+Phase: B Line Connecting: Bus67 to Bus72 Interval: 1 : 160.0 kVaR
+Phase: C Line Connecting: Bus67 to Bus72 Interval: 1 : 170.0 kVaR
+Phase: A Line Connecting: Bus72 to Bus73 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus72 to Bus73 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus72 to Bus73 Interval: 1 : 60.0 kVaR
+Phase: A Line Connecting: Bus73 to Bus74 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus73 to Bus74 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus73 to Bus74 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus74 to Bus75 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus74 to Bus75 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus74 to Bus75 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus72 to Bus76 Interval: 1 : 160.0 kVaR
+Phase: B Line Connecting: Bus72 to Bus76 Interval: 1 : 160.0 kVaR
+Phase: C Line Connecting: Bus72 to Bus76 Interval: 1 : 110.0 kVaR
+Phase: A Line Connecting: Bus76 to Bus77 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus76 to Bus77 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus76 to Bus77 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus77 to Bus78 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus77 to Bus78 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus77 to Bus78 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus78 to Bus79 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus78 to Bus79 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus78 to Bus79 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus78 to Bus80 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus78 to Bus80 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus78 to Bus80 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus80 to Bus81 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus80 to Bus81 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus80 to Bus81 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus81 to Bus82 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus81 to Bus82 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus81 to Bus82 Interval: 1 : 10.0 kVaR
+Phase: A Line Connecting: Bus82 to Bus83 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus82 to Bus83 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus82 to Bus83 Interval: 1 : 10.0 kVaR
+Phase: A Line Connecting: Bus81 to Bus84 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus81 to Bus84 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus81 to Bus84 Interval: 1 : 30.0 kVaR
+Phase: A Line Connecting: Bus84 to Bus85 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus84 to Bus85 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus84 to Bus85 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus76 to Bus86 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus76 to Bus86 Interval: 1 : 70.0 kVaR
+Phase: C Line Connecting: Bus76 to Bus86 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus86 to Bus87 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus86 to Bus87 Interval: 1 : 60.0 kVaR
+Phase: C Line Connecting: Bus86 to Bus87 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus87 to Bus88 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus87 to Bus88 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus87 to Bus88 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus87 to Bus89 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus87 to Bus89 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus87 to Bus89 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus89 to Bus90 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus89 to Bus90 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus89 to Bus90 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus89 to Bus91 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus89 to Bus91 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus89 to Bus91 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus91 to Bus92 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus91 to Bus92 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus91 to Bus92 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus91 to Bus93 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus91 to Bus93 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus91 to Bus93 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus93 to Bus94 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus93 to Bus94 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus93 to Bus94 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus93 to Bus95 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus93 to Bus95 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus93 to Bus95 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus95 to Bus96 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus95 to Bus96 Interval: 1 : 10.0 kVaR
+Phase: C Line Connecting: Bus95 to Bus96 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus67 to Bus97 Interval: 1 : 90.0 kVaR
+Phase: B Line Connecting: Bus67 to Bus97 Interval: 1 : 60.0 kVaR
+Phase: C Line Connecting: Bus67 to Bus97 Interval: 1 : 70.0 kVaR
+Phase: A Line Connecting: Bus97 to Bus98 Interval: 1 : 20.0 kVaR
+Phase: B Line Connecting: Bus97 to Bus98 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus97 to Bus98 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus98 to Bus99 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus98 to Bus99 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus98 to Bus99 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus99 to Bus100 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus99 to Bus100 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus99 to Bus100 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus197 to Bus101 Interval: 1 : 70.0 kVaR
+Phase: B Line Connecting: Bus197 to Bus101 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus197 to Bus101 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus101 to Bus102 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus101 to Bus102 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus101 to Bus102 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus102 to Bus103 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus102 to Bus103 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus102 to Bus103 Interval: 1 : 40.0 kVaR
+Phase: A Line Connecting: Bus103 to Bus104 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus103 to Bus104 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus103 to Bus104 Interval: 1 : 20.0 kVaR
+Phase: A Line Connecting: Bus101 to Bus105 Interval: 1 : 70.0 kVaR
+Phase: B Line Connecting: Bus101 to Bus105 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus101 to Bus105 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus105 to Bus106 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus105 to Bus106 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus105 to Bus106 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus106 to Bus107 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus106 to Bus107 Interval: 1 : 20.0 kVaR
+Phase: C Line Connecting: Bus106 to Bus107 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus105 to Bus108 Interval: 1 : 70.0 kVaR
+Phase: B Line Connecting: Bus105 to Bus108 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus105 to Bus108 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus108 to Bus109 Interval: 1 : 70.0 kVaR
+Phase: B Line Connecting: Bus108 to Bus109 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus108 to Bus109 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus109 to Bus110 Interval: 1 : 50.0 kVaR
+Phase: B Line Connecting: Bus109 to Bus110 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus109 to Bus110 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus110 to Bus111 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus110 to Bus111 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus110 to Bus111 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus110 to Bus112 Interval: 1 : 40.0 kVaR
+Phase: B Line Connecting: Bus110 to Bus112 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus110 to Bus112 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus112 to Bus113 Interval: 1 : 30.0 kVaR
+Phase: B Line Connecting: Bus112 to Bus113 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus112 to Bus113 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus113 to Bus114 Interval: 1 : 10.0 kVaR
+Phase: B Line Connecting: Bus113 to Bus114 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus113 to Bus114 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus18 to Bus135 Interval: 1 : 180.0 kVaR
+Phase: B Line Connecting: Bus18 to Bus135 Interval: 1 : 165.0 kVaR
+Phase: C Line Connecting: Bus18 to Bus135 Interval: 1 : 125.0 kVaR
+Phase: A Line Connecting: Bus0 to Bus149 Interval: 1 : 775.0 kVaR
+Phase: B Line Connecting: Bus0 to Bus149 Interval: 1 : 515.0 kVaR
+Phase: C Line Connecting: Bus0 to Bus149 Interval: 1 : 630.0 kVaR
+Phase: A Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus51 to Bus151 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus13 to Bus152 Interval: 1 : 415.0 kVaR
+Phase: B Line Connecting: Bus13 to Bus152 Interval: 1 : 310.0 kVaR
+Phase: C Line Connecting: Bus13 to Bus152 Interval: 1 : 345.0 kVaR
+Phase: A Line Connecting: Bus60 to Bus167 Interval: 1 : 310.0 kVaR
+Phase: B Line Connecting: Bus60 to Bus167 Interval: 1 : 220.0 kVaR
+Phase: C Line Connecting: Bus60 to Bus167 Interval: 1 : 240.0 kVaR
+Phase: A Line Connecting: Bus97 to Bus197 Interval: 1 : 70.0 kVaR
+Phase: B Line Connecting: Bus97 to Bus197 Interval: 1 : 40.0 kVaR
+Phase: C Line Connecting: Bus97 to Bus197 Interval: 1 : 50.0 kVaR
+Phase: A Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus30 to Bus250 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus108 to Bus300 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus100 to Bus450 Interval: 1 : 0.0 kVaR
+Phase: A Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kVaR
+Phase: B Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kVaR
+Phase: C Line Connecting: Bus61 to Bus610 Interval: 1 : 0.0 kVaR
+
+END_LINE_REACTIVE_POWER_FLOWS
+
+ACTIVE_POWER_AT_SOURCE_BUS
+
+Phase: A Bus: Bus0 Interval: 1 : 1010.0 kW
+Phase: B Bus: Bus0 Interval: 1 : 740.0 kW
+Phase: C Bus: Bus0 Interval: 1 : 945.0 kW
+
+END_ACTIVE_POWER_AT_SOURCE_BUS
+
+REACTIVE_POWER_AT_SOURCE_BUS
+
+Phase: A Bus: Bus0 Interval: 1 : 775.0 kVaR
+Phase: B Bus: Bus0 Interval: 1 : 515.0 kVaR
+Phase: C Bus: Bus0 Interval: 1 : 630.0 kVaR
+
+END_REACTIVE_POWER_AT_SOURCE_BUS
+

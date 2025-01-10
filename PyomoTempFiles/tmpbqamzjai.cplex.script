@@ -1,0 +1,7 @@
+set logfile C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpk1n58s2m.cplex.log
+set mip tolerances mipgap 0.001
+read C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpx5b8g_0k.pyomo.lp
+display problem stats
+optimize
+write C:\Model\TDOPF\Three-Phase-Distribution-Network-OPF\PyomoTempFiles\tmpaup2otq0.cplex.sol
+quit

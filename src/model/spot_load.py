@@ -11,3 +11,4 @@ def initialize_spotload(model, SpotLoads=None):
     model.SpotLoadQ_A = Param(model.Buses, initialize=SpotLoads[1]['A'].to_dict(), default=0.0, mutable=True, within=Reals)
     model.SpotLoadQ_B = Param(model.Buses, initialize=SpotLoads[1]['B'].to_dict(), default=0.0, mutable=True, within=Reals)
     model.SpotLoadQ_C = Param(model.Buses, initialize=SpotLoads[1]['C'].to_dict(), default=0.0, mutable=True, within=Reals)
+

@@ -104,13 +104,13 @@ def reactivepower_balance_constraint(model, A, A_0):
     
 
 def net_activepower_at_bus_rule(m, t, b, p):
-    
     if p == 'A':
-        constraint = - (m.SpotLoadP_A[b])/(m.S_Base/3)
+        constraint = - (m.NetLoadP_A[b, t] + m.SpotLoadP_A[b])/(m.S_Base/3) 
     if p == 'B':
-        constraint = - (m.SpotLoadP_B[b])/(m.S_Base/3)
+        constraint = - (m.NetLoadP_B[b, t] + m.SpotLoadP_B[b])/(m.S_Base/3) 
     if p == 'C':
-        constraint = - (m.SpotLoadP_C[b])/(m.S_Base/3)
+        constraint = - (m.NetLoadP_C[b, t] + m.SpotLoadP_C[b])/(m.S_Base/3) 
+
     if b in m.DERsAtBus:
         constraint = constraint + sum(m.ActivePowerGenerated[p, g, t] for g in m.DERsAtBus[b])
 
@@ -124,14 +124,17 @@ def constraint_net_activepower(model):
 def net_reactivepower_at_bus_rule(m, t, b, p):
     
     if p == 'A':
-        constraint = - (m.SpotLoadQ_A[b])/(m.S_Base/3) 
+        constraint = - (m.NetLoadQ_A[b, t] + m.SpotLoadQ_A[b])/(m.S_Base/3) 
     if p == 'B':
-        constraint = - (m.SpotLoadQ_B[b])/(m.S_Base/3)
+        constraint = - (m.NetLoadQ_B[b, t] + m.SpotLoadQ_B[b])/(m.S_Base/3)
     if p == 'C':
-        constraint = - (m.SpotLoadQ_C[b])/(m.S_Base/3)
+        constraint = - (m.NetLoadQ_C[b, t] + m.SpotLoadQ_C[b])/(m.S_Base/3)
 
     if b in m.DERsAtBus:
         constraint = constraint + sum(m.ReactivePowerGenerated[p, g, t] for g in m.DERsAtBus[b])
+
+    if b in m.CapacitorsAtBus:
+        constraint = constraint + sum(m.CapacitorSwitchingState[p,c,t] * m.CapacitorSwitching[c] for c in m.CapacitorsAtBus[b])
 
     constraint = m.Q[p, b, t] == constraint
     

@@ -24,6 +24,8 @@ from .capacitor import (initialize_cap, maximum_output_capacitors, switching_cap
 
 from .utils import (cap_values_per_phase)
 
+from .demand import (initialize_load)
+
 from solver import solve_model, PSSTResults
 
 logger = logging.getLogger(__file__)
@@ -114,6 +116,7 @@ def build_model(case=None,
     
     
     initialize_spotload(model, SpotLoads = SpotLoads)
+    initialize_load(model, NetLoadP=Pload_df, NetLoadQ=Qload_df)
     cap_at_bus = {b: list() for b in CapData['Node'].unique()}
     
     for i, c in CapData.iterrows():

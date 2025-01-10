@@ -10,15 +10,15 @@ s.t.
 
 c_e_FixFirstVoltage(A_1)_:
 +1 V(A_Bus0_1)
-= 1.0609
+= 1.0816
 
 c_e_FixFirstVoltage(B_1)_:
 +1 V(B_Bus0_1)
-= 1.0609
+= 1.0816
 
 c_e_FixFirstVoltage(C_1)_:
 +1 V(C_Bus0_1)
-= 1.0609
+= 1.0816
 
 c_e_VoltageConstraint(1_Bus1_A)_:
 -1 V(A_Bus0_1)
@@ -33280,7 +33280,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus2_A)_:
 c_e_CalculateNetActivePowerAtBus(1_Bus2_B)_:
 -1 ActivePowerGenerated(B_DER1_1)
 +1 P(B_Bus2_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus2_C)_:
 -1 ActivePowerGenerated(C_DER1_1)
@@ -33309,7 +33309,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus4_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus4_C)_:
 +1 P(C_Bus4_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus5_A)_:
 +1 P(A_Bus5_1)
@@ -33321,7 +33321,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus5_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus5_C)_:
 +1 P(C_Bus5_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus6_A)_:
 +1 P(A_Bus6_1)
@@ -33333,7 +33333,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus6_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus6_C)_:
 +1 P(C_Bus6_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus7_A)_:
 +1 P(A_Bus7_1)
@@ -33373,7 +33373,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus9_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus10_A)_:
 +1 P(A_Bus10_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus10_B)_:
 +1 P(B_Bus10_1)
@@ -33385,7 +33385,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus10_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus11_A)_:
 +1 P(A_Bus11_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus11_B)_:
 +1 P(B_Bus11_1)
@@ -33401,7 +33401,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus12_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus12_B)_:
 +1 P(B_Bus12_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus12_C)_:
 +1 P(C_Bus12_1)
@@ -33453,7 +33453,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus16_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus16_C)_:
 +1 P(C_Bus16_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus17_A)_:
 +1 P(A_Bus17_1)
@@ -33465,7 +33465,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus17_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus17_C)_:
 +1 P(C_Bus17_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus18_A)_:
 +1 P(A_Bus18_1)
@@ -33481,7 +33481,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus18_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus19_A)_:
 +1 P(A_Bus19_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus19_B)_:
 +1 P(B_Bus19_1)
@@ -33493,7 +33493,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus19_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus20_A)_:
 +1 P(A_Bus20_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus20_B)_:
 +1 P(B_Bus20_1)
@@ -33521,7 +33521,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus22_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus22_B)_:
 +1 P(B_Bus22_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus22_C)_:
 +1 P(C_Bus22_1)
@@ -33549,7 +33549,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus24_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus24_C)_:
 +1 P(C_Bus24_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus25_A)_:
 +1 P(A_Bus25_1)
@@ -33589,7 +33589,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus27_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus28_A)_:
 +1 P(A_Bus28_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus28_B)_:
 +1 P(B_Bus28_1)
@@ -33601,7 +33601,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus28_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus29_A)_:
 +1 P(A_Bus29_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus29_B)_:
 +1 P(B_Bus29_1)
@@ -33621,7 +33621,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus30_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus30_C)_:
 +1 P(C_Bus30_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus31_A)_:
 +1 P(A_Bus31_1)
@@ -33633,7 +33633,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus31_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus31_C)_:
 +1 P(C_Bus31_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus32_A)_:
 +1 P(A_Bus32_1)
@@ -33645,11 +33645,11 @@ c_e_CalculateNetActivePowerAtBus(1_Bus32_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus32_C)_:
 +1 P(C_Bus32_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus33_A)_:
 +1 P(A_Bus33_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus33_B)_:
 +1 P(B_Bus33_1)
@@ -33669,11 +33669,11 @@ c_e_CalculateNetActivePowerAtBus(1_Bus34_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus34_C)_:
 +1 P(C_Bus34_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus35_A)_:
 +1 P(A_Bus35_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus35_B)_:
 +1 P(B_Bus35_1)
@@ -33697,7 +33697,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus36_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus37_A)_:
 +1 P(A_Bus37_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus37_B)_:
 +1 P(B_Bus37_1)
@@ -33713,7 +33713,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus38_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus38_B)_:
 +1 P(B_Bus38_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus38_C)_:
 +1 P(C_Bus38_1)
@@ -33725,7 +33725,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus39_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus39_B)_:
 +1 P(B_Bus39_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus39_C)_:
 +1 P(C_Bus39_1)
@@ -33753,11 +33753,11 @@ c_e_CalculateNetActivePowerAtBus(1_Bus41_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus41_C)_:
 +1 P(C_Bus41_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus42_A)_:
 +1 P(A_Bus42_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus42_B)_:
 +1 P(B_Bus42_1)
@@ -33773,7 +33773,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus43_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus43_B)_:
 +1 P(B_Bus43_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus43_C)_:
 +1 P(C_Bus43_1)
@@ -33793,7 +33793,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus44_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus45_A)_:
 +1 P(A_Bus45_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus45_B)_:
 +1 P(B_Bus45_1)
@@ -33805,7 +33805,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus45_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus46_A)_:
 +1 P(A_Bus46_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus46_B)_:
 +1 P(B_Bus46_1)
@@ -33817,15 +33817,15 @@ c_e_CalculateNetActivePowerAtBus(1_Bus46_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus47_A)_:
 +1 P(A_Bus47_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus47_B)_:
 +1 P(B_Bus47_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus47_C)_:
 +1 P(C_Bus47_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus48_A)_:
 +1 P(A_Bus48_1)
@@ -33841,15 +33841,15 @@ c_e_CalculateNetActivePowerAtBus(1_Bus48_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus49_A)_:
 +1 P(A_Bus49_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus49_B)_:
 +1 P(B_Bus49_1)
-= -0.10500000000000001
+= -0.21000000000000002
 
 c_e_CalculateNetActivePowerAtBus(1_Bus49_C)_:
 +1 P(C_Bus49_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus50_A)_:
 +1 P(A_Bus50_1)
@@ -33861,7 +33861,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus50_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus50_C)_:
 +1 P(C_Bus50_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus51_A)_:
 +1 P(A_Bus51_1)
@@ -33913,7 +33913,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus54_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus55_A)_:
 +1 P(A_Bus55_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus55_B)_:
 +1 P(B_Bus55_1)
@@ -33929,7 +33929,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus56_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus56_B)_:
 +1 P(B_Bus56_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus56_C)_:
 +1 P(C_Bus56_1)
@@ -33953,7 +33953,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus58_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus58_B)_:
 +1 P(B_Bus58_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus58_C)_:
 +1 P(C_Bus58_1)
@@ -33965,7 +33965,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus59_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus59_B)_:
 +1 P(B_Bus59_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus59_C)_:
 +1 P(C_Bus59_1)
@@ -33973,7 +33973,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus59_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus60_A)_:
 +1 P(A_Bus60_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus60_B)_:
 +1 P(B_Bus60_1)
@@ -34005,11 +34005,11 @@ c_e_CalculateNetActivePowerAtBus(1_Bus62_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus62_C)_:
 +1 P(C_Bus62_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus63_A)_:
 +1 P(A_Bus63_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus63_B)_:
 +1 P(B_Bus63_1)
@@ -34025,7 +34025,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus64_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus64_B)_:
 +1 P(B_Bus64_1)
-= -0.1125
+= -0.225
 
 c_e_CalculateNetActivePowerAtBus(1_Bus64_C)_:
 +1 P(C_Bus64_1)
@@ -34053,7 +34053,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus66_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus66_C)_:
 +1 P(C_Bus66_1)
-= -0.1125
+= -0.225
 
 c_e_CalculateNetActivePowerAtBus(1_Bus67_A)_:
 +1 P(A_Bus67_1)
@@ -34069,7 +34069,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus67_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus68_A)_:
 +1 P(A_Bus68_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus68_B)_:
 +1 P(B_Bus68_1)
@@ -34081,7 +34081,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus68_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus69_A)_:
 +1 P(A_Bus69_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus69_B)_:
 +1 P(B_Bus69_1)
@@ -34093,7 +34093,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus69_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus70_A)_:
 +1 P(A_Bus70_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus70_B)_:
 +1 P(B_Bus70_1)
@@ -34105,7 +34105,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus70_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus71_A)_:
 +1 P(A_Bus71_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus71_B)_:
 +1 P(B_Bus71_1)
@@ -34137,7 +34137,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus73_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus73_C)_:
 +1 P(C_Bus73_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus74_A)_:
 +1 P(A_Bus74_1)
@@ -34149,7 +34149,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus74_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus74_C)_:
 +1 P(C_Bus74_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus75_A)_:
 +1 P(A_Bus75_1)
@@ -34161,7 +34161,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus75_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus75_C)_:
 +1 P(C_Bus75_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus76_A)_:
 +1 P(A_Bus76_1)
@@ -34181,7 +34181,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus77_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus77_B)_:
 +1 P(B_Bus77_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus77_C)_:
 +1 P(C_Bus77_1)
@@ -34201,7 +34201,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus78_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus79_A)_:
 +1 P(A_Bus79_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus79_B)_:
 +1 P(B_Bus79_1)
@@ -34217,7 +34217,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus80_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus80_B)_:
 +1 P(B_Bus80_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus80_C)_:
 +1 P(C_Bus80_1)
@@ -34237,7 +34237,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus81_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus82_A)_:
 +1 P(A_Bus82_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus82_B)_:
 +1 P(B_Bus82_1)
@@ -34257,7 +34257,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus83_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus83_C)_:
 +1 P(C_Bus83_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus84_A)_:
 +1 P(A_Bus84_1)
@@ -34269,7 +34269,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus84_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus84_C)_:
 +1 P(C_Bus84_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus85_A)_:
 +1 P(A_Bus85_1)
@@ -34281,7 +34281,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus85_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus85_C)_:
 +1 P(C_Bus85_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus86_A)_:
 +1 P(A_Bus86_1)
@@ -34289,7 +34289,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus86_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus86_B)_:
 +1 P(B_Bus86_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus86_C)_:
 +1 P(C_Bus86_1)
@@ -34301,7 +34301,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus87_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus87_B)_:
 +1 P(B_Bus87_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus87_C)_:
 +1 P(C_Bus87_1)
@@ -34309,7 +34309,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus87_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus88_A)_:
 +1 P(A_Bus88_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus88_B)_:
 +1 P(B_Bus88_1)
@@ -34337,7 +34337,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus90_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus90_B)_:
 +1 P(B_Bus90_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus90_C)_:
 +1 P(C_Bus90_1)
@@ -34365,7 +34365,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus92_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus92_C)_:
 +1 P(C_Bus92_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus93_A)_:
 +1 P(A_Bus93_1)
@@ -34381,7 +34381,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus93_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus94_A)_:
 +1 P(A_Bus94_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus94_B)_:
 +1 P(B_Bus94_1)
@@ -34397,7 +34397,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus95_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus95_B)_:
 +1 P(B_Bus95_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus95_C)_:
 +1 P(C_Bus95_1)
@@ -34409,7 +34409,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus96_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus96_B)_:
 +1 P(B_Bus96_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus96_C)_:
 +1 P(C_Bus96_1)
@@ -34429,7 +34429,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus97_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus98_A)_:
 +1 P(A_Bus98_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus98_B)_:
 +1 P(B_Bus98_1)
@@ -34445,7 +34445,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus99_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus99_B)_:
 +1 P(B_Bus99_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus99_C)_:
 +1 P(C_Bus99_1)
@@ -34461,7 +34461,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus100_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus100_C)_:
 +1 P(C_Bus100_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus101_A)_:
 +1 P(A_Bus101_1)
@@ -34485,7 +34485,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus102_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus102_C)_:
 +1 P(C_Bus102_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus103_A)_:
 +1 P(A_Bus103_1)
@@ -34497,7 +34497,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus103_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus103_C)_:
 +1 P(C_Bus103_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus104_A)_:
 +1 P(A_Bus104_1)
@@ -34509,7 +34509,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus104_B)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus104_C)_:
 +1 P(C_Bus104_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus105_A)_:
 +1 P(A_Bus105_1)
@@ -34529,7 +34529,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus106_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus106_B)_:
 +1 P(B_Bus106_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus106_C)_:
 +1 P(C_Bus106_1)
@@ -34541,7 +34541,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus107_A)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus107_B)_:
 +1 P(B_Bus107_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus107_C)_:
 +1 P(C_Bus107_1)
@@ -34561,7 +34561,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus108_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus109_A)_:
 +1 P(A_Bus109_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus109_B)_:
 +1 P(B_Bus109_1)
@@ -34585,7 +34585,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus110_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus111_A)_:
 +1 P(A_Bus111_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus111_B)_:
 +1 P(B_Bus111_1)
@@ -34597,7 +34597,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus111_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus112_A)_:
 +1 P(A_Bus112_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus112_B)_:
 +1 P(B_Bus112_1)
@@ -34609,7 +34609,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus112_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus113_A)_:
 +1 P(A_Bus113_1)
-= -0.060000000000000005
+= -0.12000000000000001
 
 c_e_CalculateNetActivePowerAtBus(1_Bus113_B)_:
 +1 P(B_Bus113_1)
@@ -34621,7 +34621,7 @@ c_e_CalculateNetActivePowerAtBus(1_Bus113_C)_:
 
 c_e_CalculateNetActivePowerAtBus(1_Bus114_A)_:
 +1 P(A_Bus114_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetActivePowerAtBus(1_Bus114_B)_:
 +1 P(B_Bus114_1)
@@ -34765,15 +34765,15 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus0_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus1_A)_:
 +1 Q(A_Bus1_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus1_B)_:
 +1 Q(B_Bus1_1)
-= -0.0
+= 0.0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus1_C)_:
 +1 Q(C_Bus1_1)
-= -0.0
+= 0.0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus2_A)_:
 +1 Q(A_Bus2_1)
@@ -34783,7 +34783,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus2_A)_:
 c_e_CalculateNetReactivePowerAtBus(1_Bus2_B)_:
 +1 Q(B_Bus2_1)
 -1 ReactivePowerGenerated(B_DER1_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus2_C)_:
 +1 Q(C_Bus2_1)
@@ -34812,7 +34812,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus4_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus4_C)_:
 +1 Q(C_Bus4_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus5_A)_:
 +1 Q(A_Bus5_1)
@@ -34824,7 +34824,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus5_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus5_C)_:
 +1 Q(C_Bus5_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus6_A)_:
 +1 Q(A_Bus6_1)
@@ -34836,11 +34836,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus6_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus6_C)_:
 +1 Q(C_Bus6_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus7_A)_:
 +1 Q(A_Bus7_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus7_B)_:
 +1 Q(B_Bus7_1)
@@ -34864,7 +34864,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus8_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus9_A)_:
 +1 Q(A_Bus9_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus9_B)_:
 +1 Q(B_Bus9_1)
@@ -34876,7 +34876,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus9_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus10_A)_:
 +1 Q(A_Bus10_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus10_B)_:
 +1 Q(B_Bus10_1)
@@ -34888,7 +34888,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus10_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus11_A)_:
 +1 Q(A_Bus11_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus11_B)_:
 +1 Q(B_Bus11_1)
@@ -34904,7 +34904,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus12_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus12_B)_:
 +1 Q(B_Bus12_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus12_C)_:
 +1 Q(C_Bus12_1)
@@ -34956,7 +34956,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus16_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus16_C)_:
 +1 Q(C_Bus16_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus17_A)_:
 +1 Q(A_Bus17_1)
@@ -34968,7 +34968,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus17_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus17_C)_:
 +1 Q(C_Bus17_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus18_A)_:
 +1 Q(A_Bus18_1)
@@ -34984,7 +34984,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus18_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus19_A)_:
 +1 Q(A_Bus19_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus19_B)_:
 +1 Q(B_Bus19_1)
@@ -34996,7 +34996,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus19_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus20_A)_:
 +1 Q(A_Bus20_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus20_B)_:
 +1 Q(B_Bus20_1)
@@ -35024,7 +35024,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus22_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus22_B)_:
 +1 Q(B_Bus22_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus22_C)_:
 +1 Q(C_Bus22_1)
@@ -35052,7 +35052,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus24_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus24_C)_:
 +1 Q(C_Bus24_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus25_A)_:
 +1 Q(A_Bus25_1)
@@ -35092,7 +35092,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus27_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus28_A)_:
 +1 Q(A_Bus28_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus28_B)_:
 +1 Q(B_Bus28_1)
@@ -35104,7 +35104,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus28_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus29_A)_:
 +1 Q(A_Bus29_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus29_B)_:
 +1 Q(B_Bus29_1)
@@ -35124,7 +35124,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus30_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus30_C)_:
 +1 Q(C_Bus30_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus31_A)_:
 +1 Q(A_Bus31_1)
@@ -35136,7 +35136,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus31_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus31_C)_:
 +1 Q(C_Bus31_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus32_A)_:
 +1 Q(A_Bus32_1)
@@ -35148,11 +35148,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus32_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus32_C)_:
 +1 Q(C_Bus32_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus33_A)_:
 +1 Q(A_Bus33_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus33_B)_:
 +1 Q(B_Bus33_1)
@@ -35172,11 +35172,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus34_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus34_C)_:
 +1 Q(C_Bus34_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus35_A)_:
 +1 Q(A_Bus35_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus35_B)_:
 +1 Q(B_Bus35_1)
@@ -35200,7 +35200,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus36_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus37_A)_:
 +1 Q(A_Bus37_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus37_B)_:
 +1 Q(B_Bus37_1)
@@ -35216,7 +35216,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus38_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus38_B)_:
 +1 Q(B_Bus38_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus38_C)_:
 +1 Q(C_Bus38_1)
@@ -35228,7 +35228,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus39_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus39_B)_:
 +1 Q(B_Bus39_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus39_C)_:
 +1 Q(C_Bus39_1)
@@ -35256,11 +35256,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus41_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus41_C)_:
 +1 Q(C_Bus41_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus42_A)_:
 +1 Q(A_Bus42_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus42_B)_:
 +1 Q(B_Bus42_1)
@@ -35276,7 +35276,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus43_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus43_B)_:
 +1 Q(B_Bus43_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus43_C)_:
 +1 Q(C_Bus43_1)
@@ -35296,7 +35296,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus44_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus45_A)_:
 +1 Q(A_Bus45_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus45_B)_:
 +1 Q(B_Bus45_1)
@@ -35308,7 +35308,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus45_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus46_A)_:
 +1 Q(A_Bus46_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus46_B)_:
 +1 Q(B_Bus46_1)
@@ -35320,39 +35320,39 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus46_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus47_A)_:
 +1 Q(A_Bus47_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus47_B)_:
 +1 Q(B_Bus47_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus47_C)_:
 +1 Q(C_Bus47_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus48_A)_:
 +1 Q(A_Bus48_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus48_B)_:
 +1 Q(B_Bus48_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus48_C)_:
 +1 Q(C_Bus48_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus49_A)_:
 +1 Q(A_Bus49_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus49_B)_:
 +1 Q(B_Bus49_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus49_C)_:
 +1 Q(C_Bus49_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus50_A)_:
 +1 Q(A_Bus50_1)
@@ -35364,11 +35364,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus50_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus50_C)_:
 +1 Q(C_Bus50_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus51_A)_:
 +1 Q(A_Bus51_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus51_B)_:
 +1 Q(B_Bus51_1)
@@ -35380,7 +35380,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus51_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus52_A)_:
 +1 Q(A_Bus52_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus52_B)_:
 +1 Q(B_Bus52_1)
@@ -35392,7 +35392,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus52_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus53_A)_:
 +1 Q(A_Bus53_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus53_B)_:
 +1 Q(B_Bus53_1)
@@ -35416,7 +35416,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus54_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus55_A)_:
 +1 Q(A_Bus55_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus55_B)_:
 +1 Q(B_Bus55_1)
@@ -35432,7 +35432,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus56_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus56_B)_:
 +1 Q(B_Bus56_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus56_C)_:
 +1 Q(C_Bus56_1)
@@ -35456,7 +35456,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus58_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus58_B)_:
 +1 Q(B_Bus58_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus58_C)_:
 +1 Q(C_Bus58_1)
@@ -35468,7 +35468,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus59_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus59_B)_:
 +1 Q(B_Bus59_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus59_C)_:
 +1 Q(C_Bus59_1)
@@ -35476,7 +35476,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus59_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus60_A)_:
 +1 Q(A_Bus60_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus60_B)_:
 +1 Q(B_Bus60_1)
@@ -35508,11 +35508,11 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus62_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus62_C)_:
 +1 Q(C_Bus62_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus63_A)_:
 +1 Q(A_Bus63_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus63_B)_:
 +1 Q(B_Bus63_1)
@@ -35528,7 +35528,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus64_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus64_B)_:
 +1 Q(B_Bus64_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus64_C)_:
 +1 Q(C_Bus64_1)
@@ -35536,15 +35536,15 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus64_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus65_A)_:
 +1 Q(A_Bus65_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus65_B)_:
 +1 Q(B_Bus65_1)
-= -0.037500000000000006
+= -0.07500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus65_C)_:
 +1 Q(C_Bus65_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus66_A)_:
 +1 Q(A_Bus66_1)
@@ -35556,7 +35556,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus66_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus66_C)_:
 +1 Q(C_Bus66_1)
-= -0.052500000000000005
+= -0.10500000000000001
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus67_A)_:
 +1 Q(A_Bus67_1)
@@ -35572,7 +35572,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus67_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus68_A)_:
 +1 Q(A_Bus68_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus68_B)_:
 +1 Q(B_Bus68_1)
@@ -35584,7 +35584,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus68_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus69_A)_:
 +1 Q(A_Bus69_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus69_B)_:
 +1 Q(B_Bus69_1)
@@ -35596,7 +35596,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus69_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus70_A)_:
 +1 Q(A_Bus70_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus70_B)_:
 +1 Q(B_Bus70_1)
@@ -35608,7 +35608,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus70_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus71_A)_:
 +1 Q(A_Bus71_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus71_B)_:
 +1 Q(B_Bus71_1)
@@ -35640,7 +35640,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus73_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus73_C)_:
 +1 Q(C_Bus73_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus74_A)_:
 +1 Q(A_Bus74_1)
@@ -35652,7 +35652,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus74_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus74_C)_:
 +1 Q(C_Bus74_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus75_A)_:
 +1 Q(A_Bus75_1)
@@ -35664,19 +35664,19 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus75_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus75_C)_:
 +1 Q(C_Bus75_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus76_A)_:
 +1 Q(A_Bus76_1)
-= -0.12000000000000001
+= -0.24000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus76_B)_:
 +1 Q(B_Bus76_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus76_C)_:
 +1 Q(C_Bus76_1)
-= -0.07500000000000001
+= -0.15000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus77_A)_:
 +1 Q(A_Bus77_1)
@@ -35684,7 +35684,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus77_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus77_B)_:
 +1 Q(B_Bus77_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus77_C)_:
 +1 Q(C_Bus77_1)
@@ -35704,7 +35704,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus78_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus79_A)_:
 +1 Q(A_Bus79_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus79_B)_:
 +1 Q(B_Bus79_1)
@@ -35720,7 +35720,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus80_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus80_B)_:
 +1 Q(B_Bus80_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus80_C)_:
 +1 Q(C_Bus80_1)
@@ -35740,7 +35740,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus81_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus82_A)_:
 +1 Q(A_Bus82_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus82_B)_:
 +1 Q(B_Bus82_1)
@@ -35752,15 +35752,18 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus82_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus83_A)_:
 +1 Q(A_Bus83_1)
-= -0.0
+-50 CapacitorSwitchingState(A_Cap1_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus83_B)_:
 +1 Q(B_Bus83_1)
-= -0.0
+-50 CapacitorSwitchingState(B_Cap1_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus83_C)_:
 +1 Q(C_Bus83_1)
-= -0.015000000000000001
+-50 CapacitorSwitchingState(C_Cap1_1)
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus84_A)_:
 +1 Q(A_Bus84_1)
@@ -35772,7 +35775,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus84_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus84_C)_:
 +1 Q(C_Bus84_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus85_A)_:
 +1 Q(A_Bus85_1)
@@ -35784,7 +35787,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus85_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus85_C)_:
 +1 Q(C_Bus85_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus86_A)_:
 +1 Q(A_Bus86_1)
@@ -35792,7 +35795,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus86_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus86_B)_:
 +1 Q(B_Bus86_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus86_C)_:
 +1 Q(C_Bus86_1)
@@ -35804,7 +35807,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus87_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus87_B)_:
 +1 Q(B_Bus87_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus87_C)_:
 +1 Q(C_Bus87_1)
@@ -35812,15 +35815,18 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus87_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus88_A)_:
 +1 Q(A_Bus88_1)
-= -0.030000000000000002
+-50 CapacitorSwitchingState(A_Cap2_1)
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus88_B)_:
 +1 Q(B_Bus88_1)
-= -0.0
+-50 CapacitorSwitchingState(B_Cap2_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus88_C)_:
 +1 Q(C_Bus88_1)
-= -0.0
+-50 CapacitorSwitchingState(C_Cap2_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus89_A)_:
 +1 Q(A_Bus89_1)
@@ -35836,15 +35842,18 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus89_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus90_A)_:
 +1 Q(A_Bus90_1)
-= -0.0
+-50 CapacitorSwitchingState(A_Cap3_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus90_B)_:
 +1 Q(B_Bus90_1)
-= -0.030000000000000002
+-50 CapacitorSwitchingState(B_Cap3_1)
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus90_C)_:
 +1 Q(C_Bus90_1)
-= -0.0
+-50 CapacitorSwitchingState(C_Cap3_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus91_A)_:
 +1 Q(A_Bus91_1)
@@ -35860,15 +35869,18 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus91_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus92_A)_:
 +1 Q(A_Bus92_1)
-= -0.0
+-50 CapacitorSwitchingState(A_Cap4_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus92_B)_:
 +1 Q(B_Bus92_1)
-= -0.0
+-50 CapacitorSwitchingState(B_Cap4_1)
+= 0
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus92_C)_:
 +1 Q(C_Bus92_1)
-= -0.030000000000000002
+-50 CapacitorSwitchingState(C_Cap4_1)
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus93_A)_:
 +1 Q(A_Bus93_1)
@@ -35884,7 +35896,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus93_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus94_A)_:
 +1 Q(A_Bus94_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus94_B)_:
 +1 Q(B_Bus94_1)
@@ -35900,7 +35912,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus95_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus95_B)_:
 +1 Q(B_Bus95_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus95_C)_:
 +1 Q(C_Bus95_1)
@@ -35912,7 +35924,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus96_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus96_B)_:
 +1 Q(B_Bus96_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus96_C)_:
 +1 Q(C_Bus96_1)
@@ -35932,7 +35944,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus97_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus98_A)_:
 +1 Q(A_Bus98_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus98_B)_:
 +1 Q(B_Bus98_1)
@@ -35948,7 +35960,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus99_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus99_B)_:
 +1 Q(B_Bus99_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus99_C)_:
 +1 Q(C_Bus99_1)
@@ -35964,7 +35976,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus100_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus100_C)_:
 +1 Q(C_Bus100_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus101_A)_:
 +1 Q(A_Bus101_1)
@@ -35988,7 +36000,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus102_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus102_C)_:
 +1 Q(C_Bus102_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus103_A)_:
 +1 Q(A_Bus103_1)
@@ -36000,7 +36012,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus103_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus103_C)_:
 +1 Q(C_Bus103_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus104_A)_:
 +1 Q(A_Bus104_1)
@@ -36012,7 +36024,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus104_B)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus104_C)_:
 +1 Q(C_Bus104_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus105_A)_:
 +1 Q(A_Bus105_1)
@@ -36032,7 +36044,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus106_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus106_B)_:
 +1 Q(B_Bus106_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus106_C)_:
 +1 Q(C_Bus106_1)
@@ -36044,7 +36056,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus107_A)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus107_B)_:
 +1 Q(B_Bus107_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus107_C)_:
 +1 Q(C_Bus107_1)
@@ -36064,7 +36076,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus108_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus109_A)_:
 +1 Q(A_Bus109_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus109_B)_:
 +1 Q(B_Bus109_1)
@@ -36088,7 +36100,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus110_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus111_A)_:
 +1 Q(A_Bus111_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus111_B)_:
 +1 Q(B_Bus111_1)
@@ -36100,7 +36112,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus111_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus112_A)_:
 +1 Q(A_Bus112_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus112_B)_:
 +1 Q(B_Bus112_1)
@@ -36112,7 +36124,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus112_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus113_A)_:
 +1 Q(A_Bus113_1)
-= -0.030000000000000002
+= -0.060000000000000005
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus113_B)_:
 +1 Q(B_Bus113_1)
@@ -36124,7 +36136,7 @@ c_e_CalculateNetReactivePowerAtBus(1_Bus113_C)_:
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus114_A)_:
 +1 Q(A_Bus114_1)
-= -0.015000000000000001
+= -0.030000000000000002
 
 c_e_CalculateNetReactivePowerAtBus(1_Bus114_B)_:
 +1 Q(B_Bus114_1)
@@ -60636,4 +60648,29 @@ bounds
    0.0 <= ReactivePowerGenerated(A_DER1_1) <= 0.0
    0.0 <= ReactivePowerGenerated(B_DER1_1) <= 0.0
    0.0 <= ReactivePowerGenerated(C_DER1_1) <= 0.0
+   0 <= CapacitorSwitchingState(A_Cap1_1) <= 4.0
+   0 <= CapacitorSwitchingState(A_Cap2_1) <= 1.0
+   0 <= CapacitorSwitchingState(A_Cap3_1) <= 0.0
+   0 <= CapacitorSwitchingState(A_Cap4_1) <= 0.0
+   0 <= CapacitorSwitchingState(B_Cap1_1) <= 4.0
+   0 <= CapacitorSwitchingState(B_Cap2_1) <= 0.0
+   0 <= CapacitorSwitchingState(B_Cap3_1) <= 1.0
+   0 <= CapacitorSwitchingState(B_Cap4_1) <= 0.0
+   0 <= CapacitorSwitchingState(C_Cap1_1) <= 4.0
+   0 <= CapacitorSwitchingState(C_Cap2_1) <= 0.0
+   0 <= CapacitorSwitchingState(C_Cap3_1) <= 0.0
+   0 <= CapacitorSwitchingState(C_Cap4_1) <= 1.0
+general
+  CapacitorSwitchingState(A_Cap1_1)
+  CapacitorSwitchingState(A_Cap2_1)
+  CapacitorSwitchingState(A_Cap3_1)
+  CapacitorSwitchingState(A_Cap4_1)
+  CapacitorSwitchingState(B_Cap1_1)
+  CapacitorSwitchingState(B_Cap2_1)
+  CapacitorSwitchingState(B_Cap3_1)
+  CapacitorSwitchingState(B_Cap4_1)
+  CapacitorSwitchingState(C_Cap1_1)
+  CapacitorSwitchingState(C_Cap2_1)
+  CapacitorSwitchingState(C_Cap3_1)
+  CapacitorSwitchingState(C_Cap4_1)
 end

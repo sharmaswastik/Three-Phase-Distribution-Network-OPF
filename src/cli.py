@@ -41,16 +41,6 @@ def OPF(solver, data=None):
 			thermal_const_df = pd.read_excel("OPF_data/thermal_constraint_data.xlsx")
 		else:
 			print("\nIgnoring Thermal limit Constraints")
-	
-	# if os.path.isfile("OPF_data/thermal_constraint_data.xlsx"): 
-	# 	thermal_const_df = pd.read_excel("OPF_data/thermal_constraint_data.xlsx")
-	# 	print("\n\nThermal constraints related data found.")
-	# 	Inp_thermal = '1'
-
-	# else:
-	# 	thermal_const_df = None
-	# 	Inp_thermal = '0'
-	# 	print("Thermal constraint related data file not found, the problem will ignore thermal constraints.")
 
 	branch_df = correct_names(branch_df, 'F_BUS', 'Bus')
 	branch_df = correct_names(branch_df, 'T_BUS', 'Bus')
@@ -85,9 +75,6 @@ def OPF(solver, data=None):
 	Pload_df = pd.concat(Pload_df, ignore_index=False)
 	Qload_df = pd.concat(Qload_df, ignore_index=False)
 
-
-	# CapData    = data_indexing("OPF_data/CapData.csv", 'Node', len(bus_df), 'Bus')
-	# HeadBus    = bus_df.loc[bus_df['HeadBus'] == 1,'bus_i'].values[0]
 	HeadBus = substation_df['HeadBus'].values[0]
 	config_dict, config_numpy = create_matrix_dict_pandas("OPF_data/config.csv")
 	
@@ -207,6 +194,18 @@ def OPF(solver, data=None):
 								else:
 									f.write('Phase: {} Bus: {} Interval: {} : {} kVaR\n'.format(str(p), str(bus), str(t), str(0)))
 				f.write("\nEND_REACTIVE_POWER_AT_SOURCE_BUS\n\n")
+
+				f.write("CAPACITOR_SWITCHING_STATES\n\n")
+				for c in instance.Capacitors.data():
+					f.write("%s\n" % str(c).ljust(8))
+					for t in instance.TimePeriods:
+						for p in instance.Phases:
+							if instance.CapacitorSwitchingState[p, c, t].value != None:
+								if instance.CapacitorsMaximumOutput[c,p]!=0:
+									f.write("\t Switching State: {} at Phase{}, Switching Costs:{} units/kVAr, Switching Value: {} kVAr\n".format(instance.CapacitorSwitchingState[p, c, t].value, p, instance.CapacitorSwitchingCost[c], instance.CapacitorSwitching[c]))
+							else:
+								f.write("\tCapaciotr Not Activated\n")
+				f.write("\nEND_CAPACITOR_SWITCHING_STATES\n\n")
 
 		elif (Status == 'infeasible'):
 			with open(output.strip("'"), 'w') as f:
